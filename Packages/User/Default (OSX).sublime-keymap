@@ -1,0 +1,10 @@
+[
+	{ "keys": ["ctrl+super+1"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+super+2"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["ctrl+super+3"], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["ctrl+super+4"], "command": "focus_group", "args": { "group": 3 } },
+	{ "keys": ["ctrl+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
+	{ "keys": ["ctrl+shift+3"], "command": "move_to_group", "args": { "group": 2 } },
+	{ "keys": ["ctrl+shift+4"], "command": "move_to_group", "args": { "group": 3 } }
+]

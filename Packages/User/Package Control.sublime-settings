@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": 1330705491,
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Django-DocsSearch",
+		"JSHint",
+		"Package Control",
+		"RubyTest"
+	]
+}
