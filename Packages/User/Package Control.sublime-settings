@@ -5,6 +5,7 @@
 		"Alignment",
 		"BeautifyRuby",
 		"Django-DocsSearch",
+		"Emmet",
 		"Git",
 		"Git Status Files",
 		"JSHint",
@@ -12,6 +13,7 @@
 		"PythonTidy",
 		"RubyTest",
 		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeCodeIntel",
 		"TrailingSpaces",
 		"ZenCoding"
