@@ -1,18 +1,214 @@
 {
 	"folder_history":
 	[
-		"/Users/cromie/Dropbox/projects/headlinerlite"
+		"/Users/cromie/Dropbox/projects/HeadlinerWebsite",
+		"/Users/cromie/Dropbox/projects/wiki.headlinerlite",
+		"/Users/cromie/Dropbox/projects/resurrectio",
+		"/Users/cromie/Dropbox/projects/headlinerlite",
+		"/Users/cromie/Dropbox/projects/pricing_optimization",
+		"/Users/cromie/Dropbox/projects/promote-this",
+		"/Users/cromie/Dropbox/projects/laptop",
+		"/Users/cromie/Dropbox/projects/ocelot",
+		"/Users/cromie/Dropbox/projects/tentd-admin",
+		"/Users/cromie/Dropbox/projects/gitBuildForwarder",
+		"/Users/cromie/Dropbox/projects/PersonalShopperExtension/PersonalShopper.Extension",
+		"/Users/cromie/Downloads/jetpack",
+		"/Users/cromie/Downloads/confirm-publishing-actions",
+		"/Users/cromie/Dropbox/projects/sinistereo",
+		"/Users/cromie/Dropbox/projects/tc-api-gem",
+		"/Users/cromie/Dropbox/projects/GeoWeather-AlbertMckeever",
+		"/Users/cromie/Dropbox/projects/vanity"
 	],
-	"last_window_id": 18,
+	"last_window_id": 102,
 	"settings":
 	{
-		"new_window_height": 1022.0,
+		"new_window_height": 878.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"if",
+						"if	if …"
+					],
+					[
+						"va",
+						"variant_file_list"
+					],
+					[
+						"varian",
+						"variant_file_list"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"secret",
+						"secret"
+					],
+					[
+						"bonu",
+						"bonus_invoice_cnt"
+					],
+					[
+						"res",
+						"reset_perishable_token"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"sen",
+						"sent_on"
+					],
+					[
+						"code",
+						"code"
+					],
+					[
+						"account",
+						"account_id"
+					],
+					[
+						"pro",
+						"profile_image_url_https"
+					],
+					[
+						"api",
+						"api_account_id"
+					],
+					[
+						"disabled",
+						"disabled"
+					],
+					[
+						"disabl",
+						"disabled"
+					],
+					[
+						"profile_",
+						"profile_image_url_https"
+					],
+					[
+						"do",
+						"do_request"
+					],
+					[
+						"Twitter",
+						"TwitterDriverError"
+					],
+					[
+						"oaut",
+						"oauth_verifier"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"children",
+						"children"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"today",
+						"today"
+					],
+					[
+						"to_json",
+						"to_json"
+					],
+					[
+						"slot",
+						"slot"
+					],
+					[
+						"nil",
+						"nil"
+					],
+					[
+						"size",
+						"size"
+					],
+					[
+						"password",
+						"password"
+					],
+					[
+						"cached_",
+						"cached_categories_list"
+					],
+					[
+						"sub",
+						"sub_int"
+					],
+					[
+						"find",
+						"find"
+					],
+					[
+						"list",
+						"list"
+					],
+					[
+						"save",
+						"save_cached_tag_list"
+					],
+					[
+						"category",
+						"category_list"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"user_comm",
+						"user_common_interests"
+					],
+					[
+						"catego",
+						"category_list"
+					],
+					[
+						"sf_us",
+						"sf_get_user_list"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"interest",
+						"interest_list"
+					],
+					[
+						"return",
+						"return"
+					],
+					[
+						"remove",
+						"remove_category"
+					],
+					[
+						"has",
+						"has_key"
+					],
+					[
+						"childre",
+						"children_cache"
+					],
 					[
 						"cached",
 						"cached_result"
@@ -24,10 +220,6 @@
 					[
 						"cache_hit",
 						"cache_hit"
-					],
-					[
-						"do",
-						"do"
 					],
 					[
 						"get",
@@ -44,33 +236,41 @@
 					[
 						"for",
 						"foreach	foreach …"
-					],
-					[
-						"name",
-						"named_scope"
-					],
-					[
-						"res",
-						"res  (variable)"
 					]
 				]
 			},
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 47.0,
 				"selected_items":
 				[
 					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
 						"packa",
-						"Preferences: Browse Packages"
+						"Package Control: Install Package"
+					],
+					[
+						"Package inst",
+						"Package Control: Install Package"
 					],
 					[
 						"pack",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
 					]
 				],
-				"width": 602.0
+				"width": 560.0
 			},
 			"console":
 			{
@@ -87,71 +287,134 @@
 			},
 			"file_history":
 			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/routes.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/db/schema.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/userhunchupdater_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/hunch_tester.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.SuggestedMessages.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/README",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.Custom.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/highcharts/adapters/mootools-adapter.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/dashboard.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_mail.god",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
 				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/registrationform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/landingregform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/pagetitle.php",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/background/user_churnish_rate.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/networks_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/pagecreate.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/js/main.js",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/index_e.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/libs/global.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/index.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/head_e.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/header_e.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/head.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/index/index.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/index/index_e.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/howitworks.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/head_black.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/doctype.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/header_white.php",
+				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/head_white.php",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/vimeo_account.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/vimeo-1.5.3/test/fixtures/advanced/album/create.json",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
 				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/crossdomain.xml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/hosts",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/statsd.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/production.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/users_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/kill_workers.sh",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/ServerSetup.txt",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/authorized_keys",
+				"/Users/cromie/Dropbox/projects/headlinerlite/.gitignore",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this_wordpress_widget.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this_wordpress_widget.min.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/authlogic-2.1.9/lib/authlogic/crypto_providers/wordpress.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/500.html",
+				"/Users/cromie/Desktop/headliner_promote_this.html",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/admins_tab.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/users_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/background/send_weekly_summary_email.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/crontab_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/README",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/mimiupdate_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/404.html",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/hlcg_b4a5783dc4b34ce13ebb62ea804fef3446494735.min.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/user_sessions_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/category_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/promotions_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/application_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.LoginForm.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/routes.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/resque.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/homepage/index.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/invitations_controller.rb",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/Default/Preferences.sublime-settings",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/opening_for_me.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/test.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tasks/rspec.rake",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Rakefile",
+				"/Users/cromie/nginx.conf",
+				"/usr/local/etc/nginx/nginx.conf",
+				"/Users/cromie/nginx",
+				"/Users/cromie/Dropbox/projects/headlinerlite/log/development.log",
 				"/Users/cromie/Dropbox/projects/headlinerlite/log/production.log",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/.autotest",
-				"/Users/cromie/Dropbox/projects/headlinerlite/experiments/metrics/accept_invite.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/genres_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/dashboard_controller_spec.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/background_mailer_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/schema.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/approvals_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/approval_views.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/utils/compile_javascript.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/application.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/session_store.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/blueprints.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/admin_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/social_accounts_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/bands_tab.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20120222233308_adding_promotion_view_analytics.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121026214412_add_user_algo.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_approval_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20090903034907_addlabelandgroupid_to_users.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/staging.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/password_resets/edit.html.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/charts_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/meta_search.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/db2s3.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/facebook.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/sound_cloud_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/invitation_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/features/support/enhanced.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/social_account_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_post_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/mailinglist_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/hunch_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/integration/unipromo_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/subscription_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/invitations_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/charts_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tasks/generate_subset_database.rake",
+				"/Users/cromie/Dropbox/projects/headlinerlite/driver_tester_app.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/headlinerlite.tmproj",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/social_account_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/utils/compile_javascript_helpers.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/test/test_helper.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/lib/driver_model.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/myspace_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/twitter_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/settings.js"
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/bucks_transaction.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invitation.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/actionpack-2.3.14/test/controller/controller_fixtures/app/controllers/user_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/postpromotion_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/postapproval_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/bucks_transaction_spec.rb"
 			],
 			"find":
 			{
@@ -159,9 +422,25 @@
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"*.js",
+					"*.rb",
+					"*spec.rb",
+					"*.rb",
+					"./*spec.rb",
+					"*spec.rb",
+					"./*.rb",
+					"./",
+					"./*spec.rb",
+					"./spec/*/*spec.rb",
+					"./spec/*.rb",
+					"/spec/*.rb",
+					"*spec*",
+					"",
+					"*.rb",
 					""
 				]
 			},
@@ -170,79 +449,169 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"PREFERRED_PCRE_VERSION",
-					"pcre",
-					">>>>",
-					">>>>>>",
-					">>>>",
-					">>>>>",
-					">>>>",
-					"publis",
-					"rvm",
-					"rvm use",
-					"key_url_hash",
-					"cache",
-					"ga_page",
-					"open3",
-					"open43",
-					"curl",
-					"check",
+					"flip",
+					"scdata",
+					"wp_data",
+					"print_r",
+					"fa",
+					"fancoun",
+					"sha1",
+					"$git_sha1",
+					"print",
+					"footer",
+					"cdn_path",
+					"hlfm_header",
+					"high score",
+					"ln -s",
+					"score_will_change",
+					"score_will_change!",
+					"calc_score",
 					"HLR",
-					"@redis",
-					"::HLR",
-					"pipe",
-					"redis",
-					"Subscription Confirmation",
-					"redirect_paypal_pro",
-					"update_daily_fans_summary",
-					"HLR",
-					"block",
+					"event",
+					"bonus",
+					"info",
+					"get_access",
+					"oauth_verifie",
+					"tumblr",
+					"scsignup_callback",
+					"ln",
+					"statsd",
+					"require",
+					"config",
+					"sd10",
+					"bonus",
+					"get_bonus_for_tsid",
+					"fr_sc_dashbox",
+					"soundcloud",
+					"fr_sc_ba",
+					"fr_sc",
+					"kill",
+					"weekly",
+					"send_weekly_summary_email",
+					"weekly",
+					"weekly summary",
+					"background",
+					"BackgroundMailer",
+					"single_access",
+					"update",
+					"single_access",
+					"single_access_token",
 					"login",
-					"hldb",
-					"ga_pageview",
-					"genre",
-					"GEt",
-					"$get",
-					"this",
-					"name",
-					"landing",
+					"single_access_token",
+					"inline",
+					"track",
+					"base.js",
+					"track",
+					"track_pending_request_impressions",
+					"track",
+					"error",
+					"resque",
+					"pending_request_hash",
+					"pending",
+					"imp",
+					"@graph",
+					"koala",
+					"test-unit",
+					"test_unit",
+					"test-unit",
+					"paginate",
 					">>>",
-					"third ",
-					"mypromo_container",
-					"load_promo_overview",
-					"show",
-					"_gaq",
-					"active",
-					"ontab",
-					"tab",
-					"window",
-					"autoload",
-					"zip",
-					"up_re",
-					"zip_store",
-					"add_items",
-					"add_items()",
+					"ln -s",
 					">>>",
-					"HEAD",
-					"mimi",
-					"base"
+					"reactiv",
+					"inactive_6_months",
+					"react",
+					"reactivate",
+					"approval",
+					"same",
+					"pending",
+					"resque",
+					"approval_views",
+					"views",
+					"create",
+					"send_first_acceptance_email",
+					"first_acceptance",
+					"first",
+					"cdn",
+					"config.cookie_secret",
+					"RAILS_ENV",
+					"Searching",
+					"RAILS_ENV ",
+					"search",
+					"searchlogic",
+					"make",
+					".make",
+					"make",
+					"make!",
+					"make",
+					"make!",
+					"make",
+					"User.make",
+					"puts",
+					"pp",
+					"puts",
+					"Network.blue",
+					"Network",
+					".make",
+					"make",
+					"ENV",
+					"password",
+					"user",
+					"make_user",
+					"attr",
+					"Password",
+					"user.make",
+					"password",
+					"pp",
+					"password",
+					"pp",
+					"password",
+					"test-unit",
+					"session",
+					">>>>>",
+					">>>",
+					"json",
+					">>>",
+					"action_controller/test_process",
+					"cache",
+					"spec",
+					"map",
+					"ln -s"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"',\n'",
+					"'\n',",
+					"'\n,'",
+					"",
+					" ",
+					"	",
+					",",
+					"Rails.root",
+					"scope",
+					"    ",
+					"save_cached_tag_list",
+					"interest",
+					"Interests",
+					"interest",
+					"int_tags",
+					"Interests",
+					"interests",
+					"interest"
 				],
-				"reverse": false,
-				"show_context": true,
+				"reverse": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"input":
 			{
@@ -268,7 +637,7 @@
 				"cols":
 				[
 					0.0,
-					0.454851429534,
+					0.493065669378,
 					1.0
 				],
 				"rows":
@@ -278,9 +647,13 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"replace":
 			{
-				"height": 0.0
+				"height": 64.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -289,268 +662,516 @@
 				"selected_items":
 				[
 					[
-						"users",
-						"app/controllers/users_controller.rb"
-					],
-					[
-						"user",
-						"app/models/user_session.rb"
-					],
-					[
-						"route",
-						"config/routes.rb"
-					],
-					[
-						"facebo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"twitter",
-						"lib/twitter_driver.rb"
-					],
-					[
-						"home",
-						"app/controllers/homepage_controller.rb"
-					],
-					[
-						"sche",
-						"db/schema.rb"
-					],
-					[
-						"commo",
-						"public/javascripts/common_ui.js"
-					],
-					[
-						"sound",
-						"app/controllers/sound_cloud_controller.rb"
-					],
-					[
-						"deploy",
-						"services/deploy/deploy.rb"
-					],
-					[
-						"hunch",
-						"app/models/hunch.rb"
-					],
-					[
-						"faceboo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"ext.us",
-						"public/javascripts/Ext.ux.SuggestedMessages.js"
-					],
-					[
-						"databa",
-						"config/database.yml"
-					],
-					[
-						"read",
-						"README"
-					],
-					[
-						"dela",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
 						"main",
-						"public/javascripts/band/main.js"
+						"js/main.js"
 					],
 					[
-						"promo",
-						"app/models/promotions.rb"
+						"regi",
+						"includes/registrationform.php"
 					],
 					[
-						"applica",
-						"app/views/layouts/application.html.erb"
+						"pagecre",
+						"pagecreate.php"
 					],
 					[
-						"gem",
-						"Gemfile"
+						"soc",
+						"libs/social.php"
 					],
 					[
-						"dashboar",
-						"public/javascripts/band/dashboard.js"
+						"index",
+						"index_e.php"
 					],
 					[
-						"delay",
-						"lib/workers/delayed_view_analytics_worker.rb"
+						"index.php",
+						"index.php"
 					],
 					[
-						"backgoun",
-						"lib/workers/backgroundmailer_worker.rb"
+						"how",
+						"howitworks.php"
 					],
 					[
-						"noti",
-						"app/models/notifier.rb"
+						"head.php",
+						"includes/head.php"
 					],
 					[
-						"user_sess",
-						"app/controllers/user_sessions_controller.rb"
+						"index_e",
+						"includes/index/index_e.php"
 					],
 					[
-						"user_se",
-						"app/models/user_session.rb"
+						"inde",
+						"includes/index/index.php"
 					],
 					[
-						"admin_con",
-						"app/controllers/admin_controller.rb"
+						"head_black",
+						"includes/head_black.php"
+					],
+					[
+						"doc",
+						"includes/doctype.php"
+					],
+					[
+						"global",
+						"libs/global.php"
 					],
 					[
 						"header",
 						"includes/header.php"
 					],
 					[
-						"main.",
-						"js/main.js"
+						"head",
+						"includes/head.php"
 					],
 					[
-						"footer",
-						"includes/footer.php"
-					],
-					[
-						"registration",
-						"includes/registrationform.php"
-					],
-					[
-						"register",
-						"register.php"
-					],
-					[
-						"regis",
-						"includes/registrationform.php"
-					],
-					[
-						"lading",
-						"includes/landingregform.php"
-					],
-					[
-						"promotions",
-						"app/models/promotions.rb"
-					],
-					[
-						"worker",
-						"lib/workers/sf_worker.rb"
-					],
-					[
-						"gemfi",
-						"Gemfile"
-					],
-					[
-						"user_spe",
-						"spec/models/user_spec.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"promotion",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"network",
-						"spec/controllers/networks_controller_spec.rb"
-					],
-					[
-						"spec_hel",
-						"spec/spec_helper.rb"
-					],
-					[
-						"produ",
-						"config/environments/production.rb"
-					],
-					[
-						"production",
-						"log/production.log"
-					],
-					[
-						"backgroun",
-						"config/environments/background.rb"
-					],
-					[
-						"envir",
-						"config/environment.rb"
-					],
-					[
-						"gemfile.",
-						"Gemfile.lock"
+						"vimeo",
+						"config/vimeo.yml"
 					],
 					[
 						"promotion_spe",
 						"spec/models/promotion_spec.rb"
 					],
 					[
-						"",
-						".autotest"
+						"deploy",
+						"services/deploy/deploy.rb"
 					],
 					[
-						"user.",
+						"promote",
+						"app/views/homepage/promote_this.erb"
+					],
+					[
+						"gemfi",
+						"Gemfile.lock"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"socialcon",
+						"app/controllers/social_account_controller.rb"
+					],
+					[
+						"cross",
+						"public/crossdomain.xml"
+					],
+					[
+						"promotiontar",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"reach",
+						"app/controllers/reach_controller.rb"
+					],
+					[
+						"user.rb",
 						"app/models/user.rb"
 					],
 					[
-						"readme",
+						"user_info",
+						"app/controllers/user_info_controller.rb"
+					],
+					[
+						"user",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"faceb",
+						"lib/facebook_driver.rb"
+					],
+					[
+						"tumbl",
+						"lib/tumblr_driver.rb"
+					],
+					[
+						"homepa",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"soundcl",
+						"app/controllers/sound_cloud_controller.rb"
+					],
+					[
+						"deplo",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"server",
+						"misc/ServerSetup.txt"
+					],
+					[
+						"hosts",
+						"misc/hosts"
+					],
+					[
+						"autho",
+						"misc/authorized_keys"
+					],
+					[
+						"stats",
+						"config/statsd.yml"
+					],
+					[
+						"word",
+						"public/javascripts/promote_this_wordpress_widget.min.js"
+					],
+					[
+						"wordpress",
+						"public/javascripts/promote_this_wordpress_widget.js"
+					],
+					[
+						"500",
+						"public/500.html"
+					],
+					[
+						"admin",
+						"public/javascripts/admin/admins_tab.js"
+					],
+					[
+						"kill",
+						"misc/kill_workers.sh"
+					],
+					[
+						"homep",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"sound",
+						"app/controllers/sound_cloud_controller.rb"
+					],
+					[
+						"read",
 						"README"
 					],
 					[
-						"experiment",
-						"experiments/metrics/accept_invite.rb"
+						"crontab",
+						"lib/workers/crontab_worker.rb"
 					],
 					[
-						"mypromotion",
-						"public/javascripts/band/my_promotions.js"
+						"404",
+						"public/404.html"
 					],
 					[
-						"common",
-						"public/javascripts/common_ui.js"
+						"notifier",
+						"app/models/notifier.rb"
 					],
 					[
-						"dash",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"background",
+						"lib/workers/backgroundmailer_worker.rb"
 					],
 					[
-						"genre",
-						"app/controllers/genres_controller.rb"
+						"mail",
+						"app/models/mailinglist.rb"
 					],
 					[
-						"dashboard",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"mimi",
+						"lib/workers/mimiupdate_worker.rb"
+					],
+					[
+						"user_se",
+						"app/controllers/user_sessions_controller.rb"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"main.",
+						"public/javascripts/band/main.js"
+					],
+					[
+						"promospec",
+						"spec/controllers/promotions_controller_spec.rb"
+					],
+					[
+						"delay",
+						"lib/workers/delayed_view_analytics_worker.rb"
+					],
+					[
+						"promo",
+						"app/controllers/promotions_controller.rb"
+					],
+					[
+						"resque",
+						"config/resque.yml"
+					],
+					[
+						"category",
+						"lib/category_helper.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"invit",
+						"app/controllers/invitations_controller.rb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"openin",
+						"public/javascripts/band/opening_for_me.js"
+					],
+					[
+						"40",
+						"public/404.html"
+					],
+					[
+						"applic",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"test",
+						"config/environments/test.rb"
+					],
+					[
+						"promotion_con",
+						"spec/controllers/promotions_controller_spec.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"delayed",
+						"lib/workers/delayed_view_analytics_worker.rb"
+					],
+					[
+						"promotionscon",
+						"spec/controllers/promotions_controller_spec.rb"
+					],
+					[
+						"promotion",
+						"app/controllers/promotions_controller.rb"
+					],
+					[
+						"facebook",
+						"lib/facebook_driver.rb"
+					],
+					[
+						"depl",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"author",
+						"misc/authorized_keys"
+					],
+					[
+						"rake",
+						"Rakefile"
+					],
+					[
+						"spec_hel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"lib/tasks",
+						"lib/tasks/rspec.rake"
+					],
+					[
+						"databas",
+						"config/database.yml"
+					],
+					[
+						"deve",
+						"log/development.log"
+					],
+					[
+						"produc",
+						"log/production.log"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"promotions",
+						"app/models/promotions.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"admin_",
+						"spec/controllers/admin_controller_spec.rb"
+					],
+					[
+						"blueprin",
+						"spec/blueprints.rb"
+					],
+					[
+						"sessio",
+						"config/initializers/session_store.rb"
+					],
+					[
+						"test.rb",
+						"config/environments/test.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile.lock"
+					],
+					[
+						"compi",
+						"utils/compile_javascript.rb"
+					],
+					[
+						"backgr",
+						"lib/workers/backgroundmailer_worker.rb"
+					],
+					[
+						"mailer",
+						"spec/models/background_mailer_spec.rb"
+					],
+					[
+						"approval",
+						"app/models/approval_views.rb"
+					],
+					[
+						"appro",
+						"app/models/approval_views.rb"
+					],
+					[
+						"approal",
+						"app/controllers/approvals_controller.rb"
+					],
+					[
+						"algo",
+						"db/migrate/20121026214412_add_user_algo.rb"
+					],
+					[
+						"approv",
+						"app/controllers/approvals_controller.rb"
+					],
+					[
+						"main.js",
+						"public/javascripts/admin/main.js"
+					],
+					[
+						"user_con",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"meta",
+						"config/initializers/meta_search.rb"
+					],
+					[
+						"chart",
+						"app/controllers/charts_controller.rb"
+					],
+					[
+						"spec",
+						"spec/spec_helper.rb"
+					],
+					[
+						"subset",
+						"lib/tasks/generate_subset_database.rake"
+					],
+					[
+						"appl",
+						"config/application.rb"
+					],
+					[
+						"blueprint",
+						"spec/blueprints.rb"
+					],
+					[
+						"backgroun",
+						"lib/workers/backgroundmailer_worker.rb"
+					],
+					[
+						"edit.h",
+						"app/views/password_resets/edit.html.erb"
+					],
+					[
+						"compile",
+						"utils/compile_javascript_helpers.rb"
+					],
+					[
+						"backgoun",
+						"lib/workers/backgroundmailer_worker.rb"
+					],
+					[
+						"invitation",
+						"spec/models/invitation_spec.rb"
+					],
+					[
+						"social",
+						"app/controllers/social_account_controller.rb"
+					],
+					[
+						"noti",
+						"app/models/notifier.rb"
+					],
+					[
+						"user_cont",
+						"vendor/ruby/1.9.1/gems/actionpack-2.3.14/test/controller/controller_fixtures/app/controllers/user_controller.rb"
 					],
 					[
 						"driver",
 						"lib/driver_model.rb"
 					],
 					[
-						"adm",
-						"spec/controllers/admin_controller_spec.rb"
-					],
-					[
-						"social",
-						"public/javascripts/admin/social_accounts_tab.js"
-					],
-					[
-						"admin",
-						"public/javascripts/admin/bands_tab.js"
-					],
-					[
-						"myspace",
-						"lib/myspace_driver.rb"
-					],
-					[
-						"settings",
-						"public/javascripts/band/settings.js"
-					],
-					[
-						"setting",
-						"public/javascripts/band/settings.js"
+						"face",
+						"lib/facebook_driver.rb"
 					],
 					[
 						"notif",
 						"app/models/notifier.rb"
+					],
+					[
+						"approwor",
+						"lib/workers/postapproval_worker.rb"
+					],
+					[
+						"postpromo",
+						"lib/workers/postpromotion_worker.rb"
+					],
+					[
+						"post",
+						"lib/workers/postpromotion_worker.rb"
+					],
+					[
+						"cront",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"requesch",
+						"config/resque_schedule.yml"
+					],
+					[
+						"twitter",
+						"lib/twitter_driver.rb"
+					],
+					[
+						"databa",
+						"config/database.yml"
+					],
+					[
+						"soundclou",
+						"config/soundcloud.yml"
+					],
+					[
+						"generate",
+						"background/generate_promo_reqs.rb"
+					],
+					[
+						"rea",
+						"README"
+					],
+					[
+						"facebo",
+						"config/facebook.yml"
+					],
+					[
+						".jst",
+						"public/javascripts/views/dashboard/feed.jst"
+					],
+					[
+						"cron",
+						"lib/workers/crontab_worker.rb"
 					]
 				],
 				"width": 0.0
@@ -563,14 +1184,14 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 185.0,
+			"side_bar_width": 338.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1897.0
+		"new_window_width": 1676.0
 	},
 	"windows":
 	[
@@ -579,6 +1200,202 @@
 			{
 				"selected_items":
 				[
+					[
+						"enga",
+						"descend_by_engagement_cnt"
+					],
+					[
+						"fan",
+						"fan_count"
+					],
+					[
+						"save",
+						"save"
+					],
+					[
+						"compl",
+						"completed_promo"
+					],
+					[
+						"cron",
+						"cron_jobs"
+					],
+					[
+						"Rails",
+						"RAILS_ENV"
+					],
+					[
+						"el",
+						"el"
+					],
+					[
+						"wordpress",
+						"wordpress"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"secret",
+						"secret"
+					],
+					[
+						"bonu",
+						"bonus_invoice_cnt"
+					],
+					[
+						"res",
+						"reset_perishable_token"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"sen",
+						"sent_on"
+					],
+					[
+						"code",
+						"code"
+					],
+					[
+						"account",
+						"account_id"
+					],
+					[
+						"pro",
+						"profile_image_url_https"
+					],
+					[
+						"api",
+						"api_account_id"
+					],
+					[
+						"disabled",
+						"disabled"
+					],
+					[
+						"disabl",
+						"disabled"
+					],
+					[
+						"profile_",
+						"profile_image_url_https"
+					],
+					[
+						"do",
+						"do_request"
+					],
+					[
+						"Twitter",
+						"TwitterDriverError"
+					],
+					[
+						"oaut",
+						"oauth_verifier"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"children",
+						"children"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"today",
+						"today"
+					],
+					[
+						"to_json",
+						"to_json"
+					],
+					[
+						"slot",
+						"slot"
+					],
+					[
+						"nil",
+						"nil"
+					],
+					[
+						"size",
+						"size"
+					],
+					[
+						"password",
+						"password"
+					],
+					[
+						"cached_",
+						"cached_categories_list"
+					],
+					[
+						"sub",
+						"sub_int"
+					],
+					[
+						"find",
+						"find"
+					],
+					[
+						"list",
+						"list"
+					],
+					[
+						"category",
+						"category_list"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"user_comm",
+						"user_common_interests"
+					],
+					[
+						"catego",
+						"category_list"
+					],
+					[
+						"sf_us",
+						"sf_get_user_list"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"interest",
+						"interest_list"
+					],
+					[
+						"return",
+						"return"
+					],
+					[
+						"remove",
+						"remove_category"
+					],
+					[
+						"has",
+						"has_key"
+					],
+					[
+						"childre",
+						"children_cache"
+					],
 					[
 						"cached",
 						"cached_result"
@@ -590,10 +1407,6 @@
 					[
 						"cache_hit",
 						"cache_hit"
-					],
-					[
-						"do",
-						"do"
 					],
 					[
 						"get",
@@ -610,24 +1423,40 @@
 					[
 						"for",
 						"foreach	foreach …"
-					],
-					[
-						"name",
-						"named_scope"
-					],
-					[
-						"res",
-						"res  (variable)"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
 					"settings":
 					{
-						"buffer_size": 89,
+						"buffer_size": 56116,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_targeting.rb",
+					"settings":
+					{
+						"buffer_size": 10231,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
+					"settings":
+					{
+						"buffer_size": 7363,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
+					"settings":
+					{
+						"buffer_size": 11417,
 						"line_ending": "Unix"
 					}
 				},
@@ -635,27 +1464,91 @@
 					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
 					"settings":
 					{
-						"buffer_size": 21671,
+						"buffer_size": 26903,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.InvitationWindow.js",
+					"settings":
+					{
+						"buffer_size": 3948,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/public/assets/templates.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 79014,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/invoice.rb",
+					"settings":
+					{
+						"buffer_size": 5207,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/invitations_controller_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1824,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
+					"settings":
+					{
+						"buffer_size": 2233,
 						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 47.0,
 				"selected_items":
 				[
 					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
 						"packa",
-						"Preferences: Browse Packages"
+						"Package Control: Install Package"
+					],
+					[
+						"Package inst",
+						"Package Control: Install Package"
 					],
 					[
 						"pack",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
 					]
 				],
-				"width": 602.0
+				"width": 560.0
 			},
 			"console":
 			{
@@ -672,72 +1565,134 @@
 			},
 			"file_history":
 			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/twitter_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/users_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/userhunchupdater_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/routes.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/db/schema.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/hunch_tester.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.SuggestedMessages.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/README",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.Custom.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/highcharts/adapters/mootools-adapter.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/dashboard.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_mail.god",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/registrationform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/landingregform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/pagetitle.php",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/background/user_churnish_rate.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/networks_controller_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/jasmine/social_networks_spec.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/blueprints.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/development.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/test.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tasks/generate_subset_database.rake",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Rakefile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/squeel.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_network.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sbid_integration.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/vimeo_account.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/vimeo.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sound_cloud.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/taggings.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_click.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/network.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/pending_promotion.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/post_action.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/post_deletion.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/bucks_transaction.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/fans_summary.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invitation.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_whitelist.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_booked_slot.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/authentication.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/trafficsource.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/approval_views.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/socialdriver_registration.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/subscription.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invoice.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/tags.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/.gitignore.rails2",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/categories.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_targeting.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/zip_code.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/klout.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/interests.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/genre.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/omniauth.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/application.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
-				"/Users/cromie/Dropbox/projects/headlinerlite/log/production.log",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/.autotest",
-				"/Users/cromie/Dropbox/projects/headlinerlite/experiments/metrics/accept_invite.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/genres_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/dashboard_controller_spec.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/social_account_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/production.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/session_store.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/admin_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/social_accounts_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/bands_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/driver_model.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/myspace_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/settings.js"
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/facebook.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/routes.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/.rvmrc",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/schema.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/uploaders/avatar_uploader.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/carrierwave.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/homepage/promote_this.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/invoiceupdater_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121217214633_amplification_score_store_fancount_on_promo_create.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/services/twitter-stats/listen.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20120127223809_add_index_on_social_account_ids.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121219173751_add_index_socialdriver_api_account_id.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/twitterstatus_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/background/clean_fans_summary.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/background/update_fans.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/mailinglist_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/utils/compile_javascript.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml.default",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/soundcloud.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/omniauth.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/authentications_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/test-Deploy.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/promote_this.html.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/images/topsummary_indent.png",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tagtree.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/users_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/ServerSetup.txt",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091211200731_add_subscription.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/hosts",
+				"/Users/cromie/Dropbox/projects/headlinerlite/utils/externs/ext-js-externs.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/javascripts.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.SignupForm.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/casper/admin_dashboard_navigation_spec.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/casper/wordpress_spec.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/PromoteThis.Views.Main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.GeneralizedSignupForm.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/PromoteThis.Views.Footer.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_sftargetting.god",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_targeting_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/resque_schedule.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/crontab_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/interest_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/category_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/mock_redis-0.6.2/mock_redis.gemspec",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/categories_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121213170002_omniauth_keep_user_info.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121212232430_omniauth_keep_the_tokens.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/wordpress.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091019195158_addusertype.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/madmimi.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Vagrantfile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Jorge-posts-for-kcrw.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/rails-2.3.14/environments/production.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/invitations_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/helpers.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.TopHeaderConfig.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Application.data.user.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/stores/Application.Stores.ReqAndNotifStore.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/create_promotion/Application.Views.CreatePromotionOptionsEditPanel.js"
 			],
 			"find":
 			{
@@ -745,9 +1700,36 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
+					"*spec.rb",
+					"*.rb",
+					"*spec.rb",
+					"*.rb",
+					"",
+					"*.js",
+					"*.rb",
+					"*.js",
+					"*.rb",
+					"*.js",
+					"*.rb",
+					"",
+					"*.js",
+					"*.rb",
+					"*spec.rb",
+					"*.rb",
+					"./*spec.rb",
+					"*spec.rb",
+					"./*.rb",
+					"./",
+					"./*spec.rb",
+					"./spec/*/*spec.rb",
+					"./spec/*.rb",
+					"/spec/*.rb",
+					"*spec*",
+					"",
+					"*.rb",
 					""
 				]
 			},
@@ -756,71 +1738,163 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"sf_build",
-					">>>>",
-					">>>>>>",
-					">>>>",
+					">>>>>",
+					">>",
+					"squeel",
+					"squeels",
+					"distinct",
+					"allbands_with",
+					"@search",
+					"distinct",
+					"pp",
+					"putspp",
+					"puts",
+					"pp",
+					"nets",
+					"pp",
+					"puts",
+					"pp",
+					"search",
+					"fan_search",
+					"search",
+					"search()",
+					"search",
+					"seaerch",
+					"search",
+					"puts",
+					"rake/rdoctask",
+					"charmer",
+					"_eq",
+					"duck_chain",
+					"attr_acc",
+					"searchlogic",
+					"allbands",
+					"score",
+					"_eq(",
+					"builder",
+					"test-unit",
+					">>>",
+					"lambda",
+					"lam",
+					"lambda",
 					">>>>>",
 					">>>>",
-					"publis",
-					"rvm",
-					"rvm use",
-					"key_url_hash",
-					"cache",
-					"ga_page",
-					"open3",
-					"open43",
-					"curl",
-					"check",
-					"HLR",
-					"@redis",
-					"::HLR",
-					"pipe",
-					"redis",
-					"Subscription Confirmation",
-					"redirect_paypal_pro",
-					"update_daily_fans_summary",
-					"HLR",
-					"block",
-					"login",
-					"hldb",
-					"ga_pageview",
-					"genre",
-					"GEt",
-					"$get",
-					"this",
-					"name",
-					"landing",
 					">>>",
-					"third ",
-					"mypromo_container",
-					"load_promo_overview",
-					"show",
-					"_gaq",
-					"active",
-					"ontab",
-					"tab",
-					"window",
-					"autoload",
-					"zip",
-					"up_re",
-					"zip_store",
-					"add_items",
-					"add_items()",
+					"arel",
+					"_eq",
+					"backend_weeklysummary_new",
+					"carrierwave",
+					"fog",
+					">>",
 					">>>",
+					"rmag",
+					"rmagick",
+					"invoice",
+					"save_cache",
+					"ampli",
+					"init_fan",
+					"make",
+					"@author",
+					"author",
+					"fc",
+					"nets",
+					"author",
+					"cached_interest_list",
+					"database",
+					"css",
+					"promote",
+					"distinct(user_id",
+					"allbands_withfans",
+					"update_all	",
+					"allbands_withfans",
+					"update_all_users_fans",
+					"User.update_all_users_fans",
+					"update",
+					"opener_id",
+					"save_fan_count",
+					"check_git_sha1_exchange",
+					"check_git_sha1_website",
+					"tag_list_cache_on",
+					"scdata",
+					"set_default",
+					"attr_protected",
+					"ccount has already been regist",
+					"email exists",
+					"user.save",
+					"scdata",
+					"create",
+					"hl.fm",
+					"scsi",
+					"callback",
+					"hl.fm",
+					"session",
+					"pt",
+					"prt=1",
+					"pt",
+					"session",
+					"promote",
+					">>>",
+					"amplification",
+					"save_fan_count",
+					"promote",
+					"reached",
+					"update_invoices_on_done",
+					"ln -s",
+					"png",
+					"current_user",
+					"set_current_user_data",
+					"current_user.role",
+					"role",
+					"User.data",
+					"current_user.role",
+					"current_user",
+					"s3upload.js",
+					"/s3upload.js",
+					"s3",
+					"upload",
+					"calc_score",
 					"HEAD",
-					"mimi",
-					"base"
+					">>>>>HEAD",
+					">>>>>",
+					">>>",
+					"select",
+					"HLR",
+					"add_cate",
+					"add_category",
+					"category",
+					"add_category",
+					"sort",
+					">>>",
+					"role"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"base_hostname",
+					"',\n'",
+					"'\n',",
+					"'\n,'",
+					"",
+					" ",
+					"	",
+					",",
+					"Rails.root",
+					"scope",
+					"    ",
+					"save_cached_tag_list",
+					"interest",
+					"Interests",
+					"interest",
+					"int_tags",
+					"Interests",
+					"interests",
+					"interest"
 				],
-				"reverse": false,
-				"show_context": true,
+				"reverse": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
@@ -834,55 +1908,23 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
 							"settings":
 							{
-								"buffer_size": 89,
+								"buffer_size": 56116,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-							"settings":
-							{
-								"buffer_size": 21671,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
+										17689,
+										17689
 									]
 								],
 								"settings":
@@ -892,1374 +1934,157 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1081.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 27.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.377280879738,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "43 9 1897 1044 0 0 1920 1058 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": false,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"admin_",
-						"app/controllers/admin_controller.rb"
-					],
-					[
-						"hunch",
-						"lib/workers/userhunchupdater_worker.rb"
-					],
-					[
-						"promo",
-						"app/models/promotions.rb"
-					],
-					[
-						"users",
-						"app/controllers/users_controller.rb"
-					],
-					[
-						"user",
-						"app/models/user_session.rb"
-					],
-					[
-						"route",
-						"config/routes.rb"
-					],
-					[
-						"facebo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"twitter",
-						"lib/twitter_driver.rb"
-					],
-					[
-						"home",
-						"app/controllers/homepage_controller.rb"
-					],
-					[
-						"sche",
-						"db/schema.rb"
-					],
-					[
-						"commo",
-						"public/javascripts/common_ui.js"
-					],
-					[
-						"sound",
-						"app/controllers/sound_cloud_controller.rb"
-					],
-					[
-						"deploy",
-						"services/deploy/deploy.rb"
-					],
-					[
-						"faceboo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"ext.us",
-						"public/javascripts/Ext.ux.SuggestedMessages.js"
-					],
-					[
-						"databa",
-						"config/database.yml"
-					],
-					[
-						"read",
-						"README"
-					],
-					[
-						"dela",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"main",
-						"public/javascripts/band/main.js"
-					],
-					[
-						"applica",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"dashboar",
-						"public/javascripts/band/dashboard.js"
-					],
-					[
-						"delay",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"backgoun",
-						"lib/workers/backgroundmailer_worker.rb"
-					],
-					[
-						"noti",
-						"app/models/notifier.rb"
-					],
-					[
-						"user_sess",
-						"app/controllers/user_sessions_controller.rb"
-					],
-					[
-						"user_se",
-						"app/models/user_session.rb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin_controller.rb"
-					],
-					[
-						"header",
-						"includes/header.php"
-					],
-					[
-						"main.",
-						"js/main.js"
-					],
-					[
-						"footer",
-						"includes/footer.php"
-					],
-					[
-						"registration",
-						"includes/registrationform.php"
-					],
-					[
-						"register",
-						"register.php"
-					],
-					[
-						"regis",
-						"includes/registrationform.php"
-					],
-					[
-						"lading",
-						"includes/landingregform.php"
-					],
-					[
-						"promotions",
-						"app/models/promotions.rb"
-					],
-					[
-						"worker",
-						"lib/workers/sf_worker.rb"
-					],
-					[
-						"gemfi",
-						"Gemfile"
-					],
-					[
-						"user_spe",
-						"spec/models/user_spec.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"promotion",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"network",
-						"spec/controllers/networks_controller_spec.rb"
-					],
-					[
-						"spec_hel",
-						"spec/spec_helper.rb"
-					],
-					[
-						"produ",
-						"config/environments/production.rb"
-					],
-					[
-						"production",
-						"log/production.log"
-					],
-					[
-						"backgroun",
-						"config/environments/background.rb"
-					],
-					[
-						"envir",
-						"config/environment.rb"
-					],
-					[
-						"gemfile.",
-						"Gemfile.lock"
-					],
-					[
-						"promotion_spe",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"",
-						".autotest"
-					],
-					[
-						"user.",
-						"app/models/user.rb"
-					],
-					[
-						"readme",
-						"README"
-					],
-					[
-						"experiment",
-						"experiments/metrics/accept_invite.rb"
-					],
-					[
-						"mypromotion",
-						"public/javascripts/band/my_promotions.js"
-					],
-					[
-						"common",
-						"public/javascripts/common_ui.js"
-					],
-					[
-						"dash",
-						"spec/controllers/dashboard_controller_spec.rb"
-					],
-					[
-						"genre",
-						"app/controllers/genres_controller.rb"
-					],
-					[
-						"dashboard",
-						"spec/controllers/dashboard_controller_spec.rb"
-					],
-					[
-						"driver",
-						"lib/driver_model.rb"
-					],
-					[
-						"adm",
-						"spec/controllers/admin_controller_spec.rb"
-					],
-					[
-						"social",
-						"public/javascripts/admin/social_accounts_tab.js"
-					],
-					[
-						"admin",
-						"public/javascripts/admin/bands_tab.js"
-					],
-					[
-						"myspace",
-						"lib/myspace_driver.rb"
-					],
-					[
-						"settings",
-						"public/javascripts/band/settings.js"
-					],
-					[
-						"setting",
-						"public/javascripts/band/settings.js"
-					],
-					[
-						"notif",
-						"app/models/notifier.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 185.0,
-			"status_bar_visible": true,
-			"window_id": 10,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"do",
-						"do"
-					],
-					[
-						"get",
-						"get"
-					],
-					[
-						"type",
-						"type"
-					],
-					[
-						"php",
-						"php"
-					],
-					[
-						"for",
-						"foreach	foreach …"
-					],
-					[
-						"name",
-						"named_scope"
-					],
-					[
-						"res",
-						"res  (variable)"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/cromie/Desktop/desktop cleanup/hunch_brands.rb",
-					"settings":
-					{
-						"buffer_size": 4614,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
-			"command_palette":
-			{
-				"height": 267.0,
-				"selected_items":
-				[
-					[
-						"packa",
-						"Preferences: Browse Packages"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 602.0
-			},
-			"console":
-			{
-				"height": 115.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/hunch_tester.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.SuggestedMessages.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/README",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.Custom.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/highcharts/adapters/mootools-adapter.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/dashboard.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_mail.god",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/registrationform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/landingregform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/pagetitle.php",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/background/user_churnish_rate.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/networks_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
-				"/Users/cromie/Dropbox/projects/headlinerlite/log/production.log",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/.autotest",
-				"/Users/cromie/Dropbox/projects/headlinerlite/experiments/metrics/accept_invite.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/genres_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/dashboard_controller_spec.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/admin_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/social_accounts_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/bands_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/driver_model.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/myspace_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/twitter_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/settings.js"
-			],
-			"find":
-			{
-				"height": 33.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"ga_page",
-					"open3",
-					"open43",
-					"curl",
-					"check",
-					"HLR",
-					"@redis",
-					"::HLR",
-					"pipe",
-					"redis",
-					"Subscription Confirmation",
-					"redirect_paypal_pro",
-					"update_daily_fans_summary",
-					"HLR",
-					"block",
-					"login",
-					"hldb",
-					"ga_pageview",
-					"genre",
-					"GEt",
-					"$get",
-					"this",
-					"name",
-					"landing",
-					">>>",
-					"third ",
-					"mypromo_container",
-					"load_promo_overview",
-					"show",
-					"_gaq",
-					"active",
-					"ontab",
-					"tab",
-					"window",
-					"autoload",
-					"zip",
-					"up_re",
-					"zip_store",
-					"add_items",
-					"add_items()",
-					">>>",
-					"HEAD",
-					"mimi",
-					"base"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/cromie/Desktop/desktop cleanup/hunch_brands.rb",
-							"settings":
-							{
-								"buffer_size": 4614,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 974.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 27.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.528428518871,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "-1629 30 1920 1050 -1680 30 1680 1050 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": false,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"hunch",
-						"hunch_tester.rb"
-					],
-					[
-						"ext.us",
-						"public/javascripts/Ext.ux.SuggestedMessages.js"
-					],
-					[
-						"databa",
-						"config/database.yml"
-					],
-					[
-						"read",
-						"README"
-					],
-					[
-						"dela",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"deploy",
-						"services/deploy/deploy.rb"
-					],
-					[
-						"main",
-						"public/javascripts/band/main.js"
-					],
-					[
-						"promo",
-						"app/models/promotions.rb"
-					],
-					[
-						"applica",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"dashboar",
-						"public/javascripts/band/dashboard.js"
-					],
-					[
-						"faceboo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"user",
-						"app/models/user.rb"
-					],
-					[
-						"delay",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"backgoun",
-						"lib/workers/backgroundmailer_worker.rb"
-					],
-					[
-						"noti",
-						"app/models/notifier.rb"
-					],
-					[
-						"user_sess",
-						"app/controllers/user_sessions_controller.rb"
-					],
-					[
-						"user_se",
-						"app/models/user_session.rb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin_controller.rb"
-					],
-					[
-						"header",
-						"includes/header.php"
-					],
-					[
-						"main.",
-						"js/main.js"
-					],
-					[
-						"footer",
-						"includes/footer.php"
-					],
-					[
-						"registration",
-						"includes/registrationform.php"
-					],
-					[
-						"register",
-						"register.php"
-					],
-					[
-						"regis",
-						"includes/registrationform.php"
-					],
-					[
-						"lading",
-						"includes/landingregform.php"
-					],
-					[
-						"promotions",
-						"app/models/promotions.rb"
-					],
-					[
-						"worker",
-						"lib/workers/sf_worker.rb"
-					],
-					[
-						"gemfi",
-						"Gemfile"
-					],
-					[
-						"user_spe",
-						"spec/models/user_spec.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"promotion",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"network",
-						"spec/controllers/networks_controller_spec.rb"
-					],
-					[
-						"spec_hel",
-						"spec/spec_helper.rb"
-					],
-					[
-						"produ",
-						"config/environments/production.rb"
-					],
-					[
-						"production",
-						"log/production.log"
-					],
-					[
-						"backgroun",
-						"config/environments/background.rb"
-					],
-					[
-						"envir",
-						"config/environment.rb"
-					],
-					[
-						"gemfile.",
-						"Gemfile.lock"
-					],
-					[
-						"promotion_spe",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"",
-						".autotest"
-					],
-					[
-						"user.",
-						"app/models/user.rb"
-					],
-					[
-						"readme",
-						"README"
-					],
-					[
-						"experiment",
-						"experiments/metrics/accept_invite.rb"
-					],
-					[
-						"mypromotion",
-						"public/javascripts/band/my_promotions.js"
-					],
-					[
-						"common",
-						"public/javascripts/common_ui.js"
-					],
-					[
-						"dash",
-						"spec/controllers/dashboard_controller_spec.rb"
-					],
-					[
-						"genre",
-						"app/controllers/genres_controller.rb"
-					],
-					[
-						"dashboard",
-						"spec/controllers/dashboard_controller_spec.rb"
-					],
-					[
-						"driver",
-						"lib/driver_model.rb"
-					],
-					[
-						"adm",
-						"spec/controllers/admin_controller_spec.rb"
-					],
-					[
-						"social",
-						"public/javascripts/admin/social_accounts_tab.js"
-					],
-					[
-						"admin",
-						"public/javascripts/admin/bands_tab.js"
-					],
-					[
-						"myspace",
-						"lib/myspace_driver.rb"
-					],
-					[
-						"twitter",
-						"lib/twitter_driver.rb"
-					],
-					[
-						"settings",
-						"public/javascripts/band/settings.js"
-					],
-					[
-						"setting",
-						"public/javascripts/band/settings.js"
-					],
-					[
-						"notif",
-						"app/models/notifier.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 185.0,
-			"status_bar_visible": true,
-			"window_id": 15,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"do",
-						"do"
-					],
-					[
-						"get",
-						"get"
-					],
-					[
-						"type",
-						"type"
-					],
-					[
-						"php",
-						"php"
-					],
-					[
-						"for",
-						"foreach	foreach …"
-					],
-					[
-						"name",
-						"named_scope"
-					],
-					[
-						"res",
-						"res  (variable)"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/registrationform.php",
-					"settings":
-					{
-						"buffer_size": 6268,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/pagepicker.php",
-					"settings":
-					{
-						"buffer_size": 4350,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/pagecreate.php",
-					"settings":
-					{
-						"buffer_size": 2751,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/libs/social.php",
-					"settings":
-					{
-						"buffer_size": 2712,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/header.php",
-					"settings":
-					{
-						"buffer_size": 2690,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/head.php",
-					"settings":
-					{
-						"buffer_size": 1535,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/css/global.css",
-					"settings":
-					{
-						"buffer_size": 33991,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/libs/global.php",
-					"settings":
-					{
-						"buffer_size": 625,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
-			"command_palette":
-			{
-				"height": 267.0,
-				"selected_items":
-				[
-					[
-						"packa",
-						"Preferences: Browse Packages"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 602.0
-			},
-			"console":
-			{
-				"height": 115.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/hunch_tester.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.SuggestedMessages.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/README",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.Custom.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/highcharts/adapters/mootools-adapter.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/dashboard.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_mail.god",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/registrationform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/landingregform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/pagetitle.php",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/background/user_churnish_rate.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/networks_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
-				"/Users/cromie/Dropbox/projects/headlinerlite/log/production.log",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/.autotest",
-				"/Users/cromie/Dropbox/projects/headlinerlite/experiments/metrics/accept_invite.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/genres_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/dashboard_controller_spec.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/admin_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/social_accounts_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/bands_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/driver_model.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/myspace_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/twitter_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/settings.js"
-			],
-			"find":
-			{
-				"height": 33.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"key_url_hash",
-					"cache",
-					"ga_page",
-					"open3",
-					"open43",
-					"curl",
-					"check",
-					"HLR",
-					"@redis",
-					"::HLR",
-					"pipe",
-					"redis",
-					"Subscription Confirmation",
-					"redirect_paypal_pro",
-					"update_daily_fans_summary",
-					"HLR",
-					"block",
-					"login",
-					"hldb",
-					"ga_pageview",
-					"genre",
-					"GEt",
-					"$get",
-					"this",
-					"name",
-					"landing",
-					">>>",
-					"third ",
-					"mypromo_container",
-					"load_promo_overview",
-					"show",
-					"_gaq",
-					"active",
-					"ontab",
-					"tab",
-					"window",
-					"autoload",
-					"zip",
-					"up_re",
-					"zip_store",
-					"add_items",
-					"add_items()",
-					">>>",
-					"HEAD",
-					"mimi",
-					"base"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/cromie/Dropbox/projects/headlinerwebsite"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/registrationform.php",
-							"settings":
-							{
-								"buffer_size": 6268,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6094,
-										6094
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1325.0,
+								"translation.y": 8564.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/pagepicker.php",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_targeting.rb",
 							"settings":
 							{
-								"buffer_size": 4350,
+								"buffer_size": 10231,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										7398,
+										7398
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3.0,
+								"translation.y": 2774.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/pagecreate.php",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
 							"settings":
 							{
-								"buffer_size": 2751,
+								"buffer_size": 7363,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2525,
-										2525
+										6847,
+										6853
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 3058.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 2,
-					"sheets":
-					[
+						},
 						{
 							"buffer": 3,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/libs/social.php",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
 							"settings":
 							{
-								"buffer_size": 2712,
+								"buffer_size": 11417,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										713,
-										713
+										11048,
+										11048
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 6,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 4230.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 4,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/header.php",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
 							"settings":
 							{
-								"buffer_size": 2690,
+								"buffer_size": 26903,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2506,
-										2506
+										25350,
+										25384
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 11394.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 5,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/includes/head.php",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.InvitationWindow.js",
 							"settings":
 							{
-								"buffer_size": 1535,
+								"buffer_size": 3948,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1535,
-										1535
+										2301,
+										2301
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 629.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 6,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/css/global.css",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/public/assets/templates.js",
 							"settings":
 							{
-								"buffer_size": 33991,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -2272,7 +2097,39 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 7,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+							"settings":
+							{
+								"buffer_size": 79014,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										992,
+										992
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -2283,27 +2140,85 @@
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/Users/cromie/Dropbox/projects/headlinerwebsite/libs/global.php",
+							"buffer": 8,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/invoice.rb",
 							"settings":
 							{
-								"buffer_size": 625,
+								"buffer_size": 5207,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										449,
-										440
+										401,
+										401
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.tmLanguage"
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/invitations_controller_spec.rb",
+							"settings":
+							{
+								"buffer_size": 1824,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1571,
+										1571
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
+							"settings":
+							{
+								"buffer_size": 2233,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1424,
+										1430
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 539.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2313,7 +2228,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"input":
 			{
@@ -2339,7 +2254,7 @@
 				"cols":
 				[
 					0.0,
-					0.528428518871,
+					0.507935647559,
 					1.0
 				],
 				"rows":
@@ -2349,10 +2264,14 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "405 -105 1920 1058 0 0 1920 1058 ",
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"position": "4 0 1676 1028 0 0 1680 1028 ",
 			"replace":
 			{
-				"height": 0.0
+				"height": 64.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -2361,252 +2280,516 @@
 				"selected_items":
 				[
 					[
-						"global",
-						"libs/global.php"
+						"templa",
+						"public/assets/templates.js"
 					],
 					[
-						"header",
-						"includes/header.php"
+						"public/javascripts/views/application.views.invitationwindow.js",
+						"public/javascripts/views/Application.Views.InvitationWindow.js"
 					],
 					[
-						"pagec",
-						"pagecreate.php"
-					],
-					[
-						"page",
-						"pagepicker.php"
-					],
-					[
-						"socia",
-						"libs/social.php"
-					],
-					[
-						"regis",
-						"includes/registrationform.php"
-					],
-					[
-						"hunch",
-						"hunch_tester.rb"
-					],
-					[
-						"ext.us",
-						"public/javascripts/Ext.ux.SuggestedMessages.js"
-					],
-					[
-						"databa",
-						"config/database.yml"
-					],
-					[
-						"read",
-						"README"
-					],
-					[
-						"dela",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"deploy",
-						"services/deploy/deploy.rb"
-					],
-					[
-						"main",
-						"public/javascripts/band/main.js"
-					],
-					[
-						"promo",
-						"app/models/promotions.rb"
-					],
-					[
-						"applica",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"gem",
+						"gemf",
 						"Gemfile"
 					],
 					[
-						"dashboar",
-						"public/javascripts/band/dashboard.js"
+						"invi",
+						"spec/controllers/invitations_controller_spec.rb"
 					],
 					[
-						"faceboo",
-						"lib/facebook_driver.rb"
+						"invoice",
+						"app/models/invoice.rb"
 					],
 					[
 						"user",
 						"app/models/user.rb"
 					],
 					[
-						"delay",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"backgoun",
-						"lib/workers/backgroundmailer_worker.rb"
-					],
-					[
-						"noti",
-						"app/models/notifier.rb"
-					],
-					[
-						"user_sess",
-						"app/controllers/user_sessions_controller.rb"
-					],
-					[
-						"user_se",
-						"app/models/user_session.rb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin_controller.rb"
-					],
-					[
-						"main.",
-						"js/main.js"
-					],
-					[
-						"footer",
-						"includes/footer.php"
-					],
-					[
-						"registration",
-						"includes/registrationform.php"
-					],
-					[
-						"register",
-						"register.php"
-					],
-					[
-						"lading",
-						"includes/landingregform.php"
-					],
-					[
-						"promotions",
-						"app/models/promotions.rb"
-					],
-					[
-						"worker",
-						"lib/workers/sf_worker.rb"
-					],
-					[
-						"gemfi",
-						"Gemfile"
-					],
-					[
-						"user_spe",
-						"spec/models/user_spec.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"promotion",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"network",
-						"spec/controllers/networks_controller_spec.rb"
-					],
-					[
-						"spec_hel",
+						"spec",
 						"spec/spec_helper.rb"
 					],
 					[
-						"produ",
-						"config/environments/production.rb"
+						"sociaspec",
+						"spec/javascripts/jasmine/social_networks_spec.js"
 					],
 					[
-						"production",
-						"log/production.log"
+						"bluep",
+						"spec/blueprints.rb"
 					],
 					[
-						"backgroun",
-						"config/environments/background.rb"
+						"generate_subset_database.rake",
+						"lib/tasks/generate_subset_database.rake"
 					],
 					[
-						"envir",
-						"config/environment.rb"
+						"devel",
+						"config/environments/development.rb"
 					],
 					[
-						"gemfile.",
-						"Gemfile.lock"
+						"test",
+						"config/environments/test.rb"
 					],
 					[
-						"promotion_spe",
-						"spec/models/promotion_spec.rb"
+						"rake",
+						"Rakefile"
+					],
+					[
+						"vimeo",
+						"app/models/vimeo_account.rb"
+					],
+					[
+						"taggin",
+						"app/models/taggings.rb"
+					],
+					[
+						"sound",
+						"app/models/sound_cloud.rb"
+					],
+					[
+						"sbid",
+						"app/models/sbid_integration.rb"
+					],
+					[
+						"promotion",
+						"app/models/promotion_post.rb"
+					],
+					[
+						"promotionnetwo",
+						"app/models/promotion_network.rb"
+					],
+					[
+						"promotionclick",
+						"app/models/promotion_click.rb"
+					],
+					[
+						"appro",
+						"app/models/promotion_approval.rb"
+					],
+					[
+						"deletion",
+						"app/models/post_deletion.rb"
+					],
+					[
+						"post",
+						"app/models/post_action.rb"
+					],
+					[
+						"pending",
+						"app/models/pending_promotion.rb"
+					],
+					[
+						"network",
+						"app/models/network.rb"
+					],
+					[
+						"fans",
+						"app/models/fans_summary.rb"
 					],
 					[
 						"",
-						".autotest"
+						"ActsAsTaggableOn::Tag"
+					],
+					[
+						"bucks",
+						"app/models/bucks_transaction.rb"
+					],
+					[
+						"white",
+						"app/models/band_whitelist.rb"
+					],
+					[
+						"booke",
+						"app/models/band_booked_slot.rb"
+					],
+					[
+						"authe",
+						"app/models/authentication.rb"
+					],
+					[
+						"traff",
+						"app/models/trafficsource.rb"
+					],
+					[
+						"sub",
+						"app/models/subscription.rb"
+					],
+					[
+						"promo",
+						"app/models/promotions.rb"
+					],
+					[
+						"social",
+						"app/models/socialdriver_registration.rb"
+					],
+					[
+						"tag",
+						"app/models/tags.rb"
+					],
+					[
+						"user_",
+						"spec/models/user_spec.rb"
 					],
 					[
 						"user.",
 						"app/models/user.rb"
 					],
 					[
-						"readme",
-						"README"
+						"sque",
+						"config/initializers/squeel.rb"
 					],
 					[
-						"experiment",
-						"experiments/metrics/accept_invite.rb"
+						"gem",
+						"Gemfile"
 					],
 					[
-						"mypromotion",
-						"public/javascripts/band/my_promotions.js"
+						"appli",
+						"config/application.rb"
 					],
 					[
-						"common",
-						"public/javascripts/common_ui.js"
+						"omni",
+						"config/initializers/omniauth.rb"
 					],
 					[
-						"dash",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"env",
+						"config/environment.rb"
 					],
 					[
-						"genre",
-						"app/controllers/genres_controller.rb"
+						"face",
+						"config/initializers/facebook.rb"
 					],
 					[
-						"dashboard",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"socialspec",
+						"spec/controllers/social_account_controller_spec.rb"
 					],
 					[
-						"driver",
-						"lib/driver_model.rb"
-					],
-					[
-						"adm",
+						"admin_",
 						"spec/controllers/admin_controller_spec.rb"
 					],
 					[
-						"social",
-						"public/javascripts/admin/social_accounts_tab.js"
+						"blue",
+						"spec/blueprints.rb"
 					],
 					[
-						"admin",
-						"public/javascripts/admin/bands_tab.js"
+						"sess",
+						"config/initializers/session_store.rb"
 					],
 					[
-						"myspace",
-						"lib/myspace_driver.rb"
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"config/environments/production.rb",
+						"config/environments/production.rb"
+					],
+					[
+						"tes",
+						"config/environments/test.rb"
+					],
+					[
+						"session",
+						"config/initializers/session_store.rb"
+					],
+					[
+						"application",
+						"config/application.rb"
+					],
+					[
+						"pro",
+						"app/models/promotions.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile.lock"
+					],
+					[
+						"develop",
+						"config/environments/development.rb"
+					],
+					[
+						"produ",
+						"config/environments/production.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"indexsocial",
+						"db/migrate/20121219173751_add_index_socialdriver_api_account_id.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
 					],
 					[
 						"twitter",
-						"lib/twitter_driver.rb"
+						"lib/workers/twitterstatus_worker.rb"
 					],
 					[
-						"settings",
-						"public/javascripts/band/settings.js"
+						"listen",
+						"services/twitter-stats/listen.rb"
 					],
 					[
-						"setting",
-						"public/javascripts/band/settings.js"
+						"promote",
+						"app/views/homepage/promote_this.erb"
 					],
 					[
-						"notif",
-						"app/models/notifier.rb"
+						"spec_hel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"promo_spec",
+						"spec/models/promotion_spec.rb"
+					],
+					[
+						"user_spe",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"mailin",
+						"spec/models/mailinglist_spec.rb"
+					],
+					[
+						"deploy",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"deplo",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"depl",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"promottar",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"compile",
+						"utils/compile_javascript.rb"
+					],
+					[
+						"update",
+						"background/update_fans.rb"
+					],
+					[
+						"fan_summ",
+						"background/clean_fans_summary.rb"
+					],
+					[
+						"promoti",
+						"app/models/promotions.rb"
+					],
+					[
+						"database",
+						"config/database.yml.default"
+					],
+					[
+						"promotmain.",
+						"public/javascripts/promote_this/main.js"
+					],
+					[
+						"home",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"authen",
+						"app/controllers/authentications_controller.rb"
+					],
+					[
+						"subscrip",
+						"db/migrate/20091211200731_add_subscription.rb"
+					],
+					[
+						"databa",
+						"config/database.yml"
+					],
+					[
+						"promospec",
+						"spec/models/promotion_spec.rb"
+					],
+					[
+						"promot",
+						"app/models/promotions.rb"
+					],
+					[
+						"ampli",
+						"db/migrate/20121217214633_amplification_score_store_fancount_on_promo_create.rb"
+					],
+					[
+						"server",
+						"misc/ServerSetup.txt"
+					],
+					[
+						"hosts",
+						"misc/hosts"
+					],
+					[
+						"wordpress",
+						"spec/javascripts/casper/wordpress_spec.js"
+					],
+					[
+						"casperadmin",
+						"spec/javascripts/casper/admin_dashboard_navigation_spec.js"
+					],
+					[
+						"signu",
+						"public/javascripts/views/Application.Views.SignupForm.js"
+					],
+					[
+						"externs",
+						"utils/externs/ext-js-externs.js"
+					],
+					[
+						"java",
+						"config/javascripts.yml"
+					],
+					[
+						"envi",
+						"config/environment.rb"
+					],
+					[
+						"reach",
+						"app/controllers/reach_controller.rb"
+					],
+					[
+						"homep",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"interes",
+						"app/models/interests.rb"
+					],
+					[
+						"targetspe",
+						"spec/models/promotion_targeting_spec.rb"
+					],
+					[
+						"targe",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"targett",
+						"god/resque_sftargetting.god"
+					],
+					[
+						"promotionspec",
+						"spec/models/promotion_spec.rb"
+					],
+					[
+						"promotions",
+						"app/models/promotions.rb"
+					],
+					[
+						"tagt",
+						"lib/tagtree.rb"
+					],
+					[
+						"resque",
+						"config/initializers/resque.rb"
+					],
+					[
+						"mock",
+						"vendor/ruby/1.9.1/gems/mock_redis-0.6.2/mock_redis.gemspec"
+					],
+					[
+						"tagtre",
+						"lib/tagtree.rb"
+					],
+					[
+						"tags",
+						"app/models/tags.rb"
+					],
+					[
+						"userspe",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"targ",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"cron",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"category",
+						"lib/category_helper.rb"
+					],
+					[
+						"intere",
+						"lib/interest_helper.rb"
+					],
+					[
+						"wordp",
+						"app/models/wordpress.rb"
+					],
+					[
+						"admin",
+						"app/controllers/admin_controller.rb"
+					],
+					[
+						"user.r",
+						"app/models/user.rb"
+					],
+					[
+						"keep",
+						"db/migrate/20121212232430_omniauth_keep_the_tokens.rb"
+					],
+					[
+						"resqu",
+						"config/initializers/resque.rb"
+					],
+					[
+						"crontab",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"jor",
+						"Jorge-posts-for-kcrw.rb"
+					],
+					[
+						"res",
+						"config/initializers/resque.rb"
+					],
+					[
+						"promotar",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"zip",
+						"app/models/zip_code.rb"
+					],
+					[
+						"vagr",
+						"Vagrantfile"
+					],
+					[
+						"cront",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"back",
+						"config/environments/background.rb"
+					],
+					[
+						"production",
+						"vendor/ruby/1.9.1/gems/rails-2.3.14/environments/production.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"auth",
+						"app/models/authentication.rb"
 					]
 				],
 				"width": 0.0
@@ -2619,13 +2802,13 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 185.0,
+			"side_bar_width": 236.0,
 			"status_bar_visible": true,
-			"window_id": 16,
+			"window_id": 70,
 			"workspace_name": ""
 		},
 		{
@@ -2633,6 +2816,194 @@
 			{
 				"selected_items":
 				[
+					[
+						"compl",
+						"completed_promo"
+					],
+					[
+						"cron",
+						"cron_jobs"
+					],
+					[
+						"Rails",
+						"RAILS_ENV"
+					],
+					[
+						"el",
+						"el"
+					],
+					[
+						"wordpress",
+						"wordpress"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"secret",
+						"secret"
+					],
+					[
+						"bonu",
+						"bonus_invoice_cnt"
+					],
+					[
+						"res",
+						"reset_perishable_token"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"sen",
+						"sent_on"
+					],
+					[
+						"code",
+						"code"
+					],
+					[
+						"account",
+						"account_id"
+					],
+					[
+						"pro",
+						"profile_image_url_https"
+					],
+					[
+						"api",
+						"api_account_id"
+					],
+					[
+						"disabled",
+						"disabled"
+					],
+					[
+						"disabl",
+						"disabled"
+					],
+					[
+						"profile_",
+						"profile_image_url_https"
+					],
+					[
+						"do",
+						"do_request"
+					],
+					[
+						"Twitter",
+						"TwitterDriverError"
+					],
+					[
+						"oaut",
+						"oauth_verifier"
+					],
+					[
+						"name",
+						"name"
+					],
+					[
+						"children",
+						"children"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"id",
+						"id"
+					],
+					[
+						"today",
+						"today"
+					],
+					[
+						"to_json",
+						"to_json"
+					],
+					[
+						"slot",
+						"slot"
+					],
+					[
+						"nil",
+						"nil"
+					],
+					[
+						"size",
+						"size"
+					],
+					[
+						"password",
+						"password"
+					],
+					[
+						"cached_",
+						"cached_categories_list"
+					],
+					[
+						"sub",
+						"sub_int"
+					],
+					[
+						"find",
+						"find"
+					],
+					[
+						"list",
+						"list"
+					],
+					[
+						"save",
+						"save_cached_tag_list"
+					],
+					[
+						"category",
+						"category_list"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"user_comm",
+						"user_common_interests"
+					],
+					[
+						"catego",
+						"category_list"
+					],
+					[
+						"sf_us",
+						"sf_get_user_list"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"interest",
+						"interest_list"
+					],
+					[
+						"return",
+						"return"
+					],
+					[
+						"remove",
+						"remove_category"
+					],
+					[
+						"has",
+						"has_key"
+					],
+					[
+						"childre",
+						"children_cache"
+					],
 					[
 						"cached",
 						"cached_result"
@@ -2646,10 +3017,6 @@
 						"cache_hit"
 					],
 					[
-						"do",
-						"do"
-					],
-					[
 						"get",
 						"get"
 					],
@@ -2664,45 +3031,52 @@
 					[
 						"for",
 						"foreach	foreach …"
-					],
-					[
-						"name",
-						"named_scope"
-					],
-					[
-						"res",
-						"res  (variable)"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"contents": "CP: Salmon Teriyaki Lunch Special with Soup\nBC: sashimi premium, soup with avocado roll\nLR: sushi premium with soup\nJR: chicken katsu udon soup\nCL chicken Cutlet soup\n\n53.35",
+					"file": "/Users/cromie/Dropbox/projects/HeadlinerWebsite/js/main.js",
 					"settings":
 					{
-						"buffer_size": 173,
-						"line_ending": "Unix",
-						"name": "CP: Salmon Teriyaki Lunch Special with Soup"
+						"buffer_size": 19424,
+						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "Packages/JSHint/JSHint.sublime-build",
+			"build_system": "Packages/Ruby/Ruby.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 47.0,
 				"selected_items":
 				[
 					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
 						"packa",
-						"Preferences: Browse Packages"
+						"Package Control: Install Package"
+					],
+					[
+						"Package inst",
+						"Package Control: Install Package"
 					],
 					[
 						"pack",
 						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
 					]
 				],
-				"width": 602.0
+				"width": 560.0
 			},
 			"console":
 			{
@@ -2719,67 +3093,134 @@
 			},
 			"file_history":
 			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/hunch_tester.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.SuggestedMessages.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/homepage/promote_this.erb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/delayed_view_analytics_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/README",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/ServerSetup.txt",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Ext.ux.Custom.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/main.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/highcharts/adapters/mootools-adapter.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/dashboard.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091211200731_add_subscription.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/hunch.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/backgroundmailer_worker.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/notifier.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_mail.god",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user_session.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_sessions_controller.rb",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/registrationform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/landingregform.php",
-				"/Users/cromie/Dropbox/projects/HeadlinerWebsite/includes/pagetitle.php",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/hosts",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121217214633_amplification_score_store_fancount_on_promo_create.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/background/user_churnish_rate.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/utils/externs/ext-js-externs.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/javascripts.yml",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/networks_controller_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/users_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/authentications_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.SignupForm.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/casper/admin_dashboard_navigation_spec.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/casper/wordpress_spec.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/PromoteThis.Views.Main.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_targeting.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.GeneralizedSignupForm.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/PromoteThis.Views.Footer.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tagtree.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/god/resque_sftargetting.god",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_targeting_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml.default",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/interests.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
-				"/Users/cromie/Dropbox/projects/headlinerlite/log/production.log",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/.autotest",
-				"/Users/cromie/Dropbox/projects/headlinerlite/experiments/metrics/accept_invite.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/genres_controller.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/dashboard_controller_spec.rb",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
-				"/Users/cromie/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/admin_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/social_accounts_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/admin/bands_tab.js",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/driver_model.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/resque_schedule.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/crontab_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/interest_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/category_helper.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/test.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/resque.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/mock_redis-0.6.2/mock_redis.gemspec",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/categories_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/tags.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121213170002_omniauth_keep_user_info.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121212232430_omniauth_keep_the_tokens.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/omniauth.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/omniauth.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/authentication.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/schema.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/wordpress.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091019195158_addusertype.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/madmimi.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/services/twitter-stats/listen.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/zip_code.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Vagrantfile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Jorge-posts-for-kcrw.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/twitterstatus_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/session_store.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/rails-2.3.14/environments/production.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/development.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/background.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/invitations_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/uploaders/avatar_uploader.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/common_ui.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/helpers.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.TopHeaderConfig.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/Application.data.user.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/stores/Application.Stores.ReqAndNotifStore.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/create_promotion/Application.Views.CreatePromotionOptionsEditPanel.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/workers/sf_worker.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/interests_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sound_cloud.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/routes.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/wordpress.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/bundler/gems/omniauth-openid-e9965493e2d8/examples/sinatra.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20110523180304_add_sound_cloud_indexes.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20101203170233_create_sound_clouds.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/authlogic-2.1.9/lib/authlogic/crypto_providers/wordpress.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invitation.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/vimeo_account.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/db2s3.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/production.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/trafficsource.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sonicbid.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/network.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/post_action.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_click.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_network.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sbid_integration.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/socialdriver_registration.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/subscription.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/taggings.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invoice.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/fans_summary.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/bucks_transaction.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_whitelist.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_booked_slot.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/dashboard_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/approvals_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/base.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/ext-3.2.0/examples/window/layout.html",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tumblr_tester.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/lib/myspace_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/lib/twitter_driver.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/band/settings.js"
+				"/Users/cromie/Dropbox/sublimesettings/Packages/User/Preferences.sublime-settings",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/User/Git.sublime-settings",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/Git/Git.sublime-settings",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/Default/Preferences.sublime-settings",
+				"/Users/cromie/Dropbox/projects/headlinerlite/services/algo_updater/server.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tumblr_driver.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/facebook.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/lib/facebook_driver.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/social_account_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/user_info_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/vimeo.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/vendor/ruby/1.9.1/gems/vimeo-1.5.3/test/fixtures/advanced/album/create.json",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile.lock",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/crossdomain.xml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/statsd.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/kill_workers.sh",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/authorized_keys",
+				"/Users/cromie/Dropbox/projects/headlinerlite/.gitignore",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this_wordpress_widget.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this_wordpress_widget.min.js",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/500.html"
 			],
 			"find":
 			{
@@ -2790,6 +3231,29 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"*.js",
+					"*.rb",
+					"*.js",
+					"*.rb",
+					"*.js",
+					"*.rb",
+					"",
+					"*.js",
+					"*.rb",
+					"*spec.rb",
+					"*.rb",
+					"./*spec.rb",
+					"*spec.rb",
+					"./*.rb",
+					"./",
+					"./*spec.rb",
+					"./spec/*/*spec.rb",
+					"./spec/*.rb",
+					"/spec/*.rb",
+					"*spec*",
+					"",
+					"*.rb",
 					""
 				]
 			},
@@ -2798,66 +3262,173 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"key_url_hash",
-					"cache",
-					"ga_page",
-					"open3",
-					"open43",
-					"curl",
-					"check",
-					"HLR",
-					"@redis",
-					"::HLR",
-					"pipe",
-					"redis",
-					"Subscription Confirmation",
-					"redirect_paypal_pro",
-					"update_daily_fans_summary",
-					"HLR",
+					"submit",
 					"block",
-					"login",
-					"hldb",
-					"ga_pageview",
-					"genre",
-					"GEt",
-					"$get",
-					"this",
-					"name",
-					"landing",
+					"submit",
+					"hl.fm",
+					"scsi",
+					"callback",
+					"hl.fm",
+					"session",
+					"pt",
+					"prt=1",
+					"pt",
+					"session",
+					"promote",
 					">>>",
-					"third ",
-					"mypromo_container",
-					"load_promo_overview",
-					"show",
-					"_gaq",
-					"active",
-					"ontab",
-					"tab",
-					"window",
-					"autoload",
-					"zip",
-					"up_re",
-					"zip_store",
-					"add_items",
-					"add_items()",
-					">>>",
+					"amplification",
+					"save_fan_count",
+					"promote",
+					"reached",
+					"update_invoices_on_done",
+					"ln -s",
+					"png",
+					"current_user",
+					"set_current_user_data",
+					"current_user.role",
+					"role",
+					"User.data",
+					"current_user.role",
+					"current_user",
+					"s3upload.js",
+					"/s3upload.js",
+					"s3",
+					"upload",
+					"calc_score",
 					"HEAD",
-					"mimi",
-					"base"
+					">>>>>HEAD",
+					">>>>>",
+					">>>",
+					"select",
+					"HLR",
+					"add_cate",
+					"add_category",
+					"category",
+					"add_category",
+					"sort",
+					">>>",
+					"role",
+					"authentications",
+					"attr",
+					"attr_protected",
+					"authenti",
+					"authentication",
+					"authentications",
+					"save_cached_tag_list",
+					"acts",
+					"paranoid",
+					"deleted",
+					"paranoid",
+					"add_index",
+					"open",
+					"apply",
+					"current_user",
+					"@current_user ||=",
+					"Rails.logger.info",
+					"current_user",
+					"create",
+					"login",
+					"redirect",
+					"resque",
+					"resuq",
+					"health",
+					"daily",
+					"RAILS",
+					"production",
+					"on_slave",
+					"default_icon.gif",
+					"default",
+					"avatar",
+					"carrier",
+					" Application.data.user",
+					" Application.data.user ",
+					"Application.Stores.User",
+					"map",
+					"build",
+					"do_search",
+					"select_hash",
+					"run for",
+					"run fot",
+					"uids",
+					"sf_get_user_list",
+					".size",
+					"scard",
+					"sf_get_user_list.size",
+					"purge",
+					"sf_score",
+					"inject",
+					"invit",
+					"invitation",
+					"invoice",
+					"invitation",
+					"puts",
+					"score",
+					"pipelined",
+					"cached_category",
+					"cached",
+					"taggable_search",
+					"OmniAuth::Builder",
+					"soc",
+					"apply_omniauth",
+					"authentications",
+					"has_many",
+					"has_mane",
+					"validate",
+					"valida",
+					"self.email",
+					"authlogic",
+					"password",
+					"has_many",
+					"Active",
+					"soundcloud",
+					"has_one",
+					"logrotate",
+					"statsd",
+					"mysql",
+					"activerecord",
+					"active",
+					"calc_statis",
+					"update",
+					"get_statis"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
 				[
+					"base_hostname",
+					"',\n'",
+					"'\n',",
+					"'\n,'",
+					"",
+					" ",
+					"	",
+					",",
+					"Rails.root",
+					"scope",
+					"    ",
+					"save_cached_tag_list",
+					"interest",
+					"Interests",
+					"interest",
+					"int_tags",
+					"Interests",
+					"interests",
+					"interest"
 				],
-				"reverse": false,
-				"show_context": true,
+				"reverse": true,
+				"show_context": false,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/cromie/Dropbox/projects/HeadlinerWebsite"
+				}
+			],
 			"groups":
 			[
 				{
@@ -2866,26 +3437,28 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/Users/cromie/Dropbox/projects/HeadlinerWebsite/js/main.js",
 							"settings":
 							{
-								"buffer_size": 173,
+								"buffer_size": 19424,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										168,
-										168
+										13907,
+										13907
 									]
 								],
 								"settings":
 								{
-									"auto_name": "CP: Salmon Teriyaki Lunch Special with Soup",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 5414.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2900,7 +3473,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"input":
 			{
@@ -2926,7 +3499,7 @@
 				"cols":
 				[
 					0.0,
-					0.454851429534,
+					0.8494509096,
 					1.0
 				],
 				"rows":
@@ -2936,10 +3509,14 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "-1635 30 1897 1044 -1680 30 1680 1050 ",
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"position": "4 0 1676 1028 0 0 1680 1028 ",
 			"replace":
 			{
-				"height": 0.0
+				"height": 64.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -2948,123 +3525,315 @@
 				"selected_items":
 				[
 					[
-						"faceboo",
-						"lib/facebook_driver.rb"
-					],
-					[
-						"hunch",
-						"hunch_tester.rb"
-					],
-					[
-						"ext.us",
-						"public/javascripts/Ext.ux.SuggestedMessages.js"
-					],
-					[
-						"databa",
-						"config/database.yml"
-					],
-					[
-						"read",
-						"README"
-					],
-					[
-						"dela",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"deploy",
-						"services/deploy/deploy.rb"
-					],
-					[
-						"main",
-						"public/javascripts/band/main.js"
-					],
-					[
-						"promo",
-						"app/models/promotions.rb"
-					],
-					[
-						"applica",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"dashboar",
-						"public/javascripts/band/dashboard.js"
-					],
-					[
-						"user",
-						"app/models/user.rb"
-					],
-					[
-						"delay",
-						"lib/workers/delayed_view_analytics_worker.rb"
-					],
-					[
-						"backgoun",
-						"lib/workers/backgroundmailer_worker.rb"
-					],
-					[
-						"noti",
-						"app/models/notifier.rb"
-					],
-					[
-						"user_sess",
-						"app/controllers/user_sessions_controller.rb"
-					],
-					[
-						"user_se",
-						"app/models/user_session.rb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin_controller.rb"
-					],
-					[
-						"header",
-						"includes/header.php"
+						"",
+						"js/main.js"
 					],
 					[
 						"main.",
 						"js/main.js"
 					],
 					[
-						"footer",
-						"includes/footer.php"
+						"omni",
+						"config/initializers/omniauth.rb"
 					],
 					[
-						"registration",
-						"includes/registrationform.php"
+						"sound",
+						"config/soundcloud.yml"
 					],
 					[
-						"register",
-						"register.php"
+						"promote",
+						"app/views/homepage/promote_this.erb"
 					],
 					[
-						"regis",
-						"includes/registrationform.php"
+						"promotmain.",
+						"public/javascripts/promote_this/main.js"
 					],
 					[
-						"lading",
-						"includes/landingregform.php"
+						"home",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"authen",
+						"app/controllers/authentications_controller.rb"
+					],
+					[
+						"subscrip",
+						"db/migrate/20091211200731_add_subscription.rb"
+					],
+					[
+						"databa",
+						"config/database.yml"
+					],
+					[
+						"promospec",
+						"spec/models/promotion_spec.rb"
+					],
+					[
+						"promot",
+						"app/models/promotions.rb"
+					],
+					[
+						"ampli",
+						"db/migrate/20121217214633_amplification_score_store_fancount_on_promo_create.rb"
+					],
+					[
+						"deplo",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"server",
+						"misc/ServerSetup.txt"
+					],
+					[
+						"hosts",
+						"misc/hosts"
+					],
+					[
+						"wordpress",
+						"spec/javascripts/casper/wordpress_spec.js"
+					],
+					[
+						"casperadmin",
+						"spec/javascripts/casper/admin_dashboard_navigation_spec.js"
+					],
+					[
+						"signu",
+						"public/javascripts/views/Application.Views.SignupForm.js"
+					],
+					[
+						"promo",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"externs",
+						"utils/externs/ext-js-externs.js"
+					],
+					[
+						"java",
+						"config/javascripts.yml"
+					],
+					[
+						"envi",
+						"config/environment.rb"
+					],
+					[
+						"reach",
+						"app/controllers/reach_controller.rb"
+					],
+					[
+						"promotion",
+						"app/models/promotions.rb"
+					],
+					[
+						"user",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"homep",
+						"app/controllers/homepage_controller.rb"
+					],
+					[
+						"authe",
+						"app/controllers/authentications_controller.rb"
+					],
+					[
+						"spec_hel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"interes",
+						"app/models/interests.rb"
+					],
+					[
+						"targetspe",
+						"spec/models/promotion_targeting_spec.rb"
+					],
+					[
+						"targe",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"targett",
+						"god/resque_sftargetting.god"
+					],
+					[
+						"promotionspec",
+						"spec/models/promotion_spec.rb"
 					],
 					[
 						"promotions",
 						"app/models/promotions.rb"
 					],
 					[
-						"worker",
-						"lib/workers/sf_worker.rb"
+						"data",
+						"config/database.yml.default"
 					],
 					[
-						"gemfi",
-						"Gemfile"
+						"tagt",
+						"lib/tagtree.rb"
 					],
 					[
 						"user_spe",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"resque",
+						"config/initializers/resque.rb"
+					],
+					[
+						"test",
+						"config/environments/test.rb"
+					],
+					[
+						"mock",
+						"vendor/ruby/1.9.1/gems/mock_redis-0.6.2/mock_redis.gemspec"
+					],
+					[
+						"tagtre",
+						"lib/tagtree.rb"
+					],
+					[
+						"tags",
+						"app/models/tags.rb"
+					],
+					[
+						"sche",
+						"config/resque_schedule.yml"
+					],
+					[
+						"userspe",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"user.",
+						"app/models/user.rb"
+					],
+					[
+						"targ",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"cron",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"category",
+						"lib/category_helper.rb"
+					],
+					[
+						"intere",
+						"lib/interest_helper.rb"
+					],
+					[
+						"wordp",
+						"app/models/wordpress.rb"
+					],
+					[
+						"admin",
+						"app/controllers/admin_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"env",
+						"config/environment.rb"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"user.r",
+						"app/models/user.rb"
+					],
+					[
+						"keep",
+						"db/migrate/20121212232430_omniauth_keep_the_tokens.rb"
+					],
+					[
+						"resqu",
+						"config/initializers/resque.rb"
+					],
+					[
+						"twitter",
+						"lib/workers/twitterstatus_worker.rb"
+					],
+					[
+						"listen",
+						"services/twitter-stats/listen.rb"
+					],
+					[
+						"crontab",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"jor",
+						"Jorge-posts-for-kcrw.rb"
+					],
+					[
+						"res",
+						"config/initializers/resque.rb"
+					],
+					[
+						"promotar",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"zip",
+						"app/models/zip_code.rb"
+					],
+					[
+						"session",
+						"config/initializers/session_store.rb"
+					],
+					[
+						"vagr",
+						"Vagrantfile"
+					],
+					[
+						"cront",
+						"lib/workers/crontab_worker.rb"
+					],
+					[
+						"back",
+						"config/environments/background.rb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"production",
+						"vendor/ruby/1.9.1/gems/rails-2.3.14/environments/production.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"sess",
+						"config/initializers/session_store.rb"
+					],
+					[
+						"auth",
+						"app/models/authentication.rb"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"promotiontar",
+						"app/models/promotion_targeting.rb"
+					],
+					[
+						"user_sp",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"user_spec",
 						"spec/models/user_spec.rb"
 					],
 					[
@@ -3072,112 +3841,200 @@
 						"app/models/user.rb"
 					],
 					[
-						"promotion",
-						"spec/models/promotion_spec.rb"
-					],
-					[
-						"network",
-						"spec/controllers/networks_controller_spec.rb"
-					],
-					[
-						"spec_hel",
-						"spec/spec_helper.rb"
-					],
-					[
-						"produ",
-						"config/environments/production.rb"
-					],
-					[
-						"production",
-						"log/production.log"
-					],
-					[
-						"backgroun",
-						"config/environments/background.rb"
-					],
-					[
-						"envir",
-						"config/environment.rb"
-					],
-					[
-						"gemfile.",
-						"Gemfile.lock"
+						"invitation",
+						"app/controllers/invitations_controller.rb"
 					],
 					[
 						"promotion_spe",
 						"spec/models/promotion_spec.rb"
 					],
 					[
-						"",
-						".autotest"
+						"spec",
+						"spec/spec_helper.rb"
 					],
 					[
-						"user.",
-						"app/models/user.rb"
+						"interest",
+						"spec/models/interests_spec.rb"
 					],
 					[
-						"readme",
-						"README"
+						"tagtree",
+						"lib/tagtree.rb"
 					],
 					[
-						"experiment",
-						"experiments/metrics/accept_invite.rb"
+						"target",
+						"app/models/promotion_targeting.rb"
 					],
 					[
-						"mypromotion",
-						"public/javascripts/band/my_promotions.js"
+						"cate",
+						"lib/category_helper.rb"
 					],
 					[
-						"common",
-						"public/javascripts/common_ui.js"
+						"homepa",
+						"app/controllers/homepage_controller.rb"
 					],
 					[
-						"dash",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"word",
+						"config/wordpress.yml"
 					],
 					[
-						"genre",
-						"app/controllers/genres_controller.rb"
+						"routes",
+						"config/routes.rb"
 					],
 					[
-						"dashboard",
-						"spec/controllers/dashboard_controller_spec.rb"
+						"gemfi",
+						"Gemfile"
 					],
 					[
-						"driver",
-						"lib/driver_model.rb"
+						"w",
+						"config/wordpress.yml"
 					],
 					[
-						"adm",
-						"spec/controllers/admin_controller_spec.rb"
+						"soundcloud",
+						"db/migrate/20110523180304_add_sound_cloud_indexes.rb"
 					],
 					[
-						"social",
-						"public/javascripts/admin/social_accounts_tab.js"
+						"wordpre",
+						"app/models/wordpress.rb"
 					],
 					[
-						"admin",
-						"public/javascripts/admin/bands_tab.js"
+						"sounc",
+						"app/models/sound_cloud.rb"
+					],
+					[
+						"datab",
+						"config/database.yml.default"
+					],
+					[
+						"db2",
+						"config/initializers/db2s3.rb"
+					],
+					[
+						"zipco",
+						"app/models/zip_code.rb"
+					],
+					[
+						"database",
+						"config/database.yml.default"
+					],
+					[
+						"vimeo",
+						"app/models/vimeo_account.rb"
+					],
+					[
+						"layout",
+						"public/ext-3.2.0/examples/window/layout.html"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"worker",
+						"lib/workers/sf_worker.rb"
+					],
+					[
+						"approva",
+						"app/controllers/approvals_controller.rb"
+					],
+					[
+						"dashb",
+						"app/controllers/dashboard_controller.rb"
 					],
 					[
 						"myspace",
 						"lib/myspace_driver.rb"
 					],
 					[
-						"twitter",
-						"lib/twitter_driver.rb"
+						"tumb",
+						"lib/tumblr_tester.rb"
 					],
 					[
-						"settings",
-						"public/javascripts/band/settings.js"
+						"tumblr",
+						"lib/tumblr_driver.rb"
 					],
 					[
-						"setting",
-						"public/javascripts/band/settings.js"
+						"server.rb",
+						"services/algo_updater/server.rb"
 					],
 					[
-						"notif",
+						"applica",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"deploy",
+						"services/deploy/deploy.rb"
+					],
+					[
+						"socialcon",
+						"app/controllers/social_account_controller.rb"
+					],
+					[
+						"cross",
+						"public/crossdomain.xml"
+					],
+					[
+						"user_info",
+						"app/controllers/user_info_controller.rb"
+					],
+					[
+						"faceb",
+						"lib/facebook_driver.rb"
+					],
+					[
+						"tumbl",
+						"lib/tumblr_driver.rb"
+					],
+					[
+						"soundcl",
+						"app/controllers/sound_cloud_controller.rb"
+					],
+					[
+						"autho",
+						"misc/authorized_keys"
+					],
+					[
+						"stats",
+						"config/statsd.yml"
+					],
+					[
+						"500",
+						"public/500.html"
+					],
+					[
+						"kill",
+						"misc/kill_workers.sh"
+					],
+					[
+						"read",
+						"README"
+					],
+					[
+						"404",
+						"public/404.html"
+					],
+					[
+						"notifier",
 						"app/models/notifier.rb"
+					],
+					[
+						"background",
+						"lib/workers/backgroundmailer_worker.rb"
+					],
+					[
+						"mail",
+						"app/models/mailinglist.rb"
+					],
+					[
+						"mimi",
+						"lib/workers/mimiupdate_worker.rb"
+					],
+					[
+						"user_se",
+						"app/controllers/user_sessions_controller.rb"
+					],
+					[
+						"delay",
+						"lib/workers/delayed_view_analytics_worker.rb"
 					]
 				],
 				"width": 0.0
@@ -3190,13 +4047,13 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 185.0,
+			"side_bar_width": 465.0,
 			"status_bar_visible": true,
-			"window_id": 17,
+			"window_id": 102,
 			"workspace_name": ""
 		}
 	],

@@ -1,11 +1,19 @@
 {
-	"auto_upgrade_last_run": 1330705491,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"BeautifyRuby",
 		"Django-DocsSearch",
+		"Git",
+		"Git Status Files",
 		"JSHint",
 		"Package Control",
-		"RubyTest"
+		"PythonTidy",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TrailingSpaces",
+		"ZenCoding"
 	]
 }

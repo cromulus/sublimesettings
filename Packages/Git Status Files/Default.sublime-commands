@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Git Status Files: Opens all the files in a git repository that are listed by git status.",
+        "command": "git_status_files"
+    }
+]
