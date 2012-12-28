@@ -6,5 +6,6 @@
 	{ "keys": ["ctrl+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
 	{ "keys": ["ctrl+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
 	{ "keys": ["ctrl+shift+3"], "command": "move_to_group", "args": { "group": 2 } },
-	{ "keys": ["ctrl+shift+4"], "command": "move_to_group", "args": { "group": 3 } }
+	{ "keys": ["ctrl+shift+4"], "command": "move_to_group", "args": { "group": 3 } },
+  { "keys": ["super+alt+]"], "command": "align_assignments" }
 ]

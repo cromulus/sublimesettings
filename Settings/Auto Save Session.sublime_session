@@ -1217,6 +1217,22 @@
 				"selected_items":
 				[
 					[
+						"am",
+						"amplification_score"
+					],
+					[
+						"first",
+						"first_possible_date"
+					],
+					[
+						"search",
+						"search_end_date"
+					],
+					[
+						"slots",
+						"slots_taken"
+					],
+					[
 						"enga",
 						"descend_by_engagement_cnt"
 					],
@@ -1445,42 +1461,34 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
-					"settings":
-					{
-						"buffer_size": 58254,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-					"settings":
-					{
-						"buffer_size": 30283,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/blueprints.rb",
-					"settings":
-					{
-						"buffer_size": 14803,
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
 					"settings":
 					{
-						"buffer_size": 55146,
+						"buffer_size": 55157,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
 					"settings":
 					{
-						"buffer_size": 9496,
+						"buffer_size": 11449,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 73376,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/analytics_controller.rb",
+					"settings":
+					{
+						"buffer_size": 4945,
 						"line_ending": "Unix"
 					}
 				}
@@ -1488,15 +1496,15 @@
 			"build_system": "Packages/Ruby/Ruby.sublime-build",
 			"command_palette":
 			{
-				"height": 47.0,
+				"height": 67.0,
 				"selected_items":
 				[
 					[
-						"package install",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"install",
+						"package install",
 						"Package Control: Install Package"
 					],
 					[
@@ -1520,7 +1528,7 @@
 						"Set Syntax: Python"
 					]
 				],
-				"width": 559.0
+				"width": 579.0
 			},
 			"console":
 			{
@@ -1537,32 +1545,40 @@
 			},
 			"file_history":
 			[
-				"/Users/cromie/Dropbox/projects/headlinerlite/public/stylesheets/top_user_nav.css",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
+				"/Users/cromie/Dropbox/sublimesettings/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/test.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/blueprints.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/misc/hosts",
+				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_booked_slot.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/approvals_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121228172840_add_id_to_band_booked_slots.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
+				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml.default",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
+				"/Users/cromie/Dropbox/projects/headlinerlite/public/stylesheets/top_user_nav.css",
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/admin_controller.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.InvitationWindow.js",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/modules/category_helper_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/vimeo_account_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_post_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/social_account_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/public/assets/templates.js",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/category_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/spec_helper.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/reach_controller.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_targeting.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Gemfile",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml",
 				"/Users/cromie/Dropbox/sublimesettings/Packages/User/Preferences.sublime-settings",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invoice.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/controllers/invitations_controller_spec.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/javascripts/jasmine/social_networks_spec.js",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/development.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/environments/test.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/lib/tasks/generate_subset_database.rake",
 				"/Users/cromie/Dropbox/projects/headlinerlite/Rakefile",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/environment.rb",
@@ -1574,7 +1590,6 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/sound_cloud.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/taggings.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_click.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_approval.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/network.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/pending_promotion.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/post_action.rb",
@@ -1583,7 +1598,6 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/fans_summary.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/invitation.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_whitelist.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/band_booked_slot.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/authentication.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/trafficsource.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/approval_views.rb",
@@ -1624,7 +1638,6 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/mailinglist.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/mailinglist_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/utils/compile_javascript.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/database.yml.default",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/soundcloud.yml",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/omniauth.yml",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/sound_cloud_controller.rb",
@@ -1632,7 +1645,6 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/homepage_controller.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/services/deploy/deploy.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/test-Deploy.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/promote_this.html.erb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/views/layouts/application.html.erb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/public/images/topsummary_indent.png",
@@ -1641,7 +1653,6 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/promote_this/main.js",
 				"/Users/cromie/Dropbox/projects/headlinerlite/misc/ServerSetup.txt",
 				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091211200731_add_subscription.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/misc/hosts",
 				"/Users/cromie/Dropbox/projects/headlinerlite/utils/externs/ext-js-externs.js",
 				"/Users/cromie/Dropbox/projects/headlinerlite/config/javascripts.yml",
 				"/Users/cromie/Dropbox/projects/headlinerlite/public/javascripts/views/Application.Views.SignupForm.js",
@@ -1661,10 +1672,7 @@
 				"/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/categories_controller.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121213170002_omniauth_keep_user_info.rb",
 				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20121212232430_omniauth_keep_the_tokens.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/wordpress.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/db/migrate/20091019195158_addusertype.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/config/initializers/madmimi.rb",
-				"/Users/cromie/Dropbox/projects/headlinerlite/Vagrantfile"
+				"/Users/cromie/Dropbox/projects/headlinerlite/app/models/wordpress.rb"
 			],
 			"find":
 			{
@@ -1712,6 +1720,21 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"amplif",
+					"generate_approval",
+					"band_booked_slot",
+					"booked_slot",
+					"BandBookedSlot.create",
+					"recently_booked",
+					"squeel",
+					"next_slot",
+					"recently_booked_slots",
+					"next_slot",
+					">>>",
+					">>>>",
+					"next_slot",
+					"summary",
+					"next_slot",
 					"make",
 					"User.make",
 					"active",
@@ -1824,22 +1847,7 @@
 					"prt=1",
 					"pt",
 					"session",
-					"promote",
-					">>>",
-					"amplification",
-					"save_fan_count",
-					"promote",
-					"reached",
-					"update_invoices_on_done",
-					"ln -s",
-					"png",
-					"current_user",
-					"set_current_user_data",
-					"current_user.role",
-					"role",
-					"User.data",
-					"current_user.role",
-					"current_user"
+					"promote"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1882,23 +1890,23 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/models/promotion_spec.rb",
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
 							"settings":
 							{
-								"buffer_size": 58254,
+								"buffer_size": 55157,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										55230,
-										55230
+										7446,
+										7446
 									]
 								],
 								"settings":
@@ -1908,63 +1916,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 23379.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/models/user_spec.rb",
-							"settings":
-							{
-								"buffer_size": 30283,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27248,
-										27257
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 12538.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/spec/blueprints.rb",
-							"settings":
-							{
-								"buffer_size": 14803,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10633,
-										10633
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 6419.0,
+								"translation.y": 3645.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1972,23 +1924,23 @@
 					]
 				},
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
-							"buffer": 3,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotions.rb",
+							"buffer": 1,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/promotions_controller.rb",
 							"settings":
 							{
-								"buffer_size": 55146,
+								"buffer_size": 11449,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										39388,
-										39388
+										4441,
+										4441
 									]
 								],
 								"settings":
@@ -1998,25 +1950,25 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 19500.0,
+								"translation.y": 1819.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/promotion_post.rb",
+							"buffer": 2,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/models/user.rb",
 							"settings":
 							{
-								"buffer_size": 9496,
+								"buffer_size": 73376,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4839,
-										4845
+										51337,
+										51364
 									]
 								],
 								"settings":
@@ -2026,7 +1978,35 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 24493.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/analytics_controller.rb",
+							"settings":
+							{
+								"buffer_size": 4945,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4794,
+										4794
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1420.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2062,7 +2042,7 @@
 				"cols":
 				[
 					0.0,
-					0.507935647559,
+					0.510930439226,
 					1.0
 				],
 				"rows":
@@ -2074,9 +2054,9 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 246.0
+				"height": 345.0
 			},
-			"position": "4 0 1676 1028 0 0 1680 1028 ",
+			"position": "4 30 1676 1028 0 0 1920 1058 ",
 			"replace":
 			{
 				"height": 64.0
@@ -2088,6 +2068,46 @@
 				"selected_items":
 				[
 					[
+						"promo",
+						"app/models/promotions.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"appro",
+						"app/models/promotion_approval.rb"
+					],
+					[
+						"20121228172840_add_id_to_band_booked_slots.rb",
+						"db/migrate/20121228172840_add_id_to_band_booked_slots.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"hosts",
+						"misc/hosts"
+					],
+					[
+						"test",
+						"config/environments/test.rb"
+					],
+					[
+						"data",
+						"config/database.yml"
+					],
+					[
+						"promotion",
+						"app/models/promotions.rb"
+					],
+					[
+						"bandboo",
+						"app/models/band_booked_slot.rb"
+					],
+					[
 						"blue",
 						"spec/blueprints.rb"
 					],
@@ -2098,10 +2118,6 @@
 					[
 						"promotion_pos",
 						"app/models/promotion_post.rb"
-					],
-					[
-						"promotion",
-						"app/models/promotions.rb"
 					],
 					[
 						"bluep",
@@ -2156,10 +2172,6 @@
 						"app/models/invoice.rb"
 					],
 					[
-						"user",
-						"app/models/user.rb"
-					],
-					[
 						"sociaspec",
 						"spec/javascripts/jasmine/social_networks_spec.js"
 					],
@@ -2170,10 +2182,6 @@
 					[
 						"devel",
 						"config/environments/development.rb"
-					],
-					[
-						"test",
-						"config/environments/test.rb"
 					],
 					[
 						"rake",
@@ -2202,10 +2210,6 @@
 					[
 						"promotionclick",
 						"app/models/promotion_click.rb"
-					],
-					[
-						"appro",
-						"app/models/promotion_approval.rb"
 					],
 					[
 						"deletion",
@@ -2254,10 +2258,6 @@
 					[
 						"sub",
 						"app/models/subscription.rb"
-					],
-					[
-						"promo",
-						"app/models/promotions.rb"
 					],
 					[
 						"social",
@@ -2352,16 +2352,8 @@
 						"db/schema.rb"
 					],
 					[
-						"gemfi",
-						"Gemfile"
-					],
-					[
 						"indexsocial",
 						"db/migrate/20121219173751_add_index_socialdriver_api_account_id.rb"
-					],
-					[
-						"data",
-						"config/database.yml"
 					],
 					[
 						"twitter",
@@ -2458,10 +2450,6 @@
 					[
 						"server",
 						"misc/ServerSetup.txt"
-					],
-					[
-						"hosts",
-						"misc/hosts"
 					],
 					[
 						"wordpress",
@@ -2590,14 +2578,6 @@
 					[
 						"res",
 						"config/initializers/resque.rb"
-					],
-					[
-						"promotar",
-						"app/models/promotion_targeting.rb"
-					],
-					[
-						"zip",
-						"app/models/zip_code.rb"
 					]
 				],
 				"width": 0.0
@@ -3266,7 +3246,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 5429.0,
+								"translation.y": 5414.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -3321,7 +3301,7 @@
 			{
 				"height": 100.0
 			},
-			"position": "4 -30 1676 1028 0 0 1680 1028 ",
+			"position": "4 -30 1676 1028 0 0 1920 1058 ",
 			"replace":
 			{
 				"height": 64.0
