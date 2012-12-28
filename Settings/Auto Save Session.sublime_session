@@ -1500,6 +1500,10 @@
 				"selected_items":
 				[
 					[
+						"Upgrade Package",
+						"Package Control: Upgrade Package"
+					],
+					[
 						"install",
 						"Package Control: Install Package"
 					],
@@ -1916,7 +1920,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3645.0,
+								"translation.y": 3177.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
