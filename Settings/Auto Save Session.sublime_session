@@ -1488,7 +1488,7 @@
 					"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/analytics_controller.rb",
 					"settings":
 					{
-						"buffer_size": 4945,
+						"buffer_size": 4953,
 						"line_ending": "Unix"
 					}
 				}
@@ -1500,19 +1500,19 @@
 				"selected_items":
 				[
 					[
-						"Upgrade Package",
-						"Package Control: Upgrade Package"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"package install",
-						"Package Control: Install Package"
+						"packa",
+						"Package Control: Discover Packages"
 					],
 					[
-						"packa",
+						"Upgrade Package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"package install",
 						"Package Control: Install Package"
 					],
 					[
@@ -1909,8 +1909,8 @@
 								"selection":
 								[
 									[
-										7446,
-										7446
+										7445,
+										7445
 									]
 								],
 								"settings":
@@ -1992,15 +1992,15 @@
 							"file": "/Users/cromie/Dropbox/projects/headlinerlite/app/controllers/analytics_controller.rb",
 							"settings":
 							{
-								"buffer_size": 4945,
+								"buffer_size": 4953,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4794,
-										4794
+										4793,
+										4793
 									]
 								],
 								"settings":
@@ -2010,7 +2010,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1420.0,
+								"translation.y": 1447.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
